@@ -1,0 +1,248 @@
+﻿NAME,FOLLOWER,LIKE,DESCRIPTION,"TOTAL RETWEET",TOTAL_LIKE,TWEET
+goodfellow_ian,48143,2174,"Google Brain research scientist Lead author of https://t.co/GXx4YfpW7O Co-author of ML security blog https://t.co/zBM4kd64Rl",108196,10560,"RT @heysarahsweeney: PLEASE call 1-202-418-1000 to reach the voicemail of the Chairman of the FCC. Say your name, city, and state and that…"
+,,,,,,"@Smerity @hardmaru One of the biggest problem with traditional review is that papers are evaluated by 3ish randomly… https://t.co/Bxy7LbraXJ"
+,,,,,,"@Smerity @hardmaru You should resist the urge to sway discussion in favor of your friends’ papers but if you suppor… https://t.co/fpM3eZ0ol9"
+,,,,,,"@Smerity @hardmaru You’re not supposed to resist that urge. A large part of the point of open review is that anyone… https://t.co/EG2hdmGOeB"
+,,,,,,"RT @irenetrampoline: Loving the loosely organized format of #SOCML organized by @goodfellow_ian. Great sessions and great crowd. See below…"
+,,,,,,"@Smerity Geoff Hinton has done this, for example in the dropout paper. In that case I think the plot plays a useful… https://t.co/nddazZbcYl"
+,,,,,,"RT @zacharylipton: Tks @goodfellow_ian for meta-organizing awesome #socml! Takeaways:
+1. Big picture issues better for unconf (vs technical…"
+,,,,,,"RT @mmitchell_ai: Amazing time at #socml. We dug into generatin human-like adversarial examples (The Dress), evaluating machine bias, AI Et…"
+,,,,,,"@hannawallach Sunday night"
+,,,,,,"@vukosi Thank you for participating!"
+,,,,,,"RT @vukosi: Very thankful for the time spent at #SOCML. We continue the journey to share our work, our stories and our networks. Enjoyed th…"
+,,,,,,"RT @tdreossi: What a day at #SOCML Thanks @goodfellow_ian and all ppl who made this amazing (un)conference possible https://t.co/tMzwkOm9gU"
+,,,,,,"RT @karpathy: Wow, GANs are on a roll. Quite amazing results from pix2pixHD: https://t.co/sJUNWiWd9i Also the most tangible glimpse so far…"
+,,,,,,"@ethancaballero @soumithchintala @realDonaldTrump Donald Trump tries to keep discussion on twitter and make it infl… https://t.co/rsL98LdMzi"
+,,,,,,"@jeremyphoward @soumithchintala OK, Soumith agreed. We’ll discuss at NIPS, not tweet about it until then, but share conclusions after"
+,,,,,,"@jeremyphoward @soumithchintala I’m fine with sharing things openly once we reach a good conclusion but twitter is… https://t.co/w4Kue1gshr"
+,,,,,,"@jeremyphoward @soumithchintala I’ve proposed that we all meet at NIPS and discuss it rather than tweet."
+,,,,,,"2 megapixel GANs: https://t.co/98VGmrYniL"
+,,,,,,"@martin_trapp Yes"
+,,,,,,"@AkshayGoelMD @drsxr For generative models the train / test split is messy because you develop the model by looking… https://t.co/UKrkJesASo"
+,,,,,,"@zacharylipton There’s plenty of the reverse, deep learning about anime: https://t.co/TynvL0DlUa"
+,,,,,,"@haldaume3 @guyvdb @roydanroy Lol"
+,,,,,,"@drsxr @hardmaru The situation is actually worse than p-hacking. More of measuring and hacking the single best resu… https://t.co/HLxStloU7w"
+,,,,,,"@roydanroy @guyvdb Yeah, it should be a sanity check, not the main selling point of the paper"
+,,,,,,"@soumithchintala I haven't read the final public version of the paper, but I discussed this work with the authors b… https://t.co/r1YjjRQ4Rw"
+,,,,,,"@_amirbar It's worse for GANs and RL because the metrics aren't as crystal clear as for classifiers. Accuracy is co… https://t.co/UysAVx5jIm"
+,,,,,,"@jmhessel I don't think a winter is imminent because there is still a lot of great work going on (in the case of GA… https://t.co/NIqpBbq0Yx"
+,,,,,,"@antor @hardmaru @SussilloDavid @collinsljas @jaschasd I don't know of one. But I don't think the point is ""everyon… https://t.co/f7QPpvIjFD"
+,,,,,,"@jsylvest Well it's glamorous to me but I'm weird"
+,,,,,,"@ljbuturovic I actually think peer review sometimes *increases* this problem because reviewers reject papers for be… https://t.co/GZ68LpryLR"
+,,,,,,"@unsorsodicorda @ljbuturovic Yes, @catherineols , who helped demonstrate the reproducibility problem in psychology,… https://t.co/kVReAkgl2s"
+,,,,,,"@GiorgioPatrini FWIW, many of the papers citing the original GAN paper *are* improvements or extend GANs to solve n… https://t.co/Jmvmm9fb9m"
+,,,,,,"@hardmaru @SussilloDavid @collinsljas @jaschasd It also reminds me of https://t.co/couzHkDL8Z
+
+For both GANs and RL… https://t.co/SF8eBpZb49"
+,,,,,,"@guyvdb @roydanroy I *would* vote for a ban on using pictures of tasks that are already very solved to argue that a… https://t.co/HAATrioibH"
+,,,,,,"@guyvdb @roydanroy I also vote no because the quantitative metrics of sample quality are not that great yet"
+,,,,,,"@guyvdb @roydanroy I vote no. I actually think one of the best ways to argue that a new generative model is an impr… https://t.co/XaZxMKR5u8"
+,,,,,,"@hardmaru @hichaelmart Ironically, a lot of these papers didn’t claim SOTAs. They claimed increased robustness to h… https://t.co/lwvEPtLLVT"
+,,,,,,"@roydanroy This is more about doing empirical work correctly. Actually I would say a big problem this year has been… https://t.co/nBbRKVGYkz"
+,,,,,,"ML researchers, reviewers, and press coverage of ML need to get a lot more serious about statistically robustness o… https://t.co/SEJQlscAdm"
+,,,,,,"Some totally new GAN structures like StackGAN, Progressive GAN, CycleGAN, etc., are real advances, but this exhaust… https://t.co/Y0FzzBJwlT"
+,,,,,,"@brthornbury Include the - . Twitter parsed it wrong"
+,,,,,,"StarGAN: learning one model that translates between *multiple* domains without supervision (previous works were abo… https://t.co/hjwwxZHvhA"
+,,,,,,"@jfgagne @timnitGebru @sgouws @shakir_za"
+,,,,,,"@ppujari @WiMLworkshop I'm not a WIML organizer but I think not due to the format (people wandering around to many… https://t.co/K7qsaucYUY"
+,,,,,,"I'll moderate the discussion at the mentorship table on Generative Models at @WiMLworkshop Thu Dec 7 2:20-3:20 PM. https://t.co/9GSsQkD4lf"
+,,,,,,"RT @colinraffel: A video of my talk ""Doing Strange Things with Attention"" which I gave at AI @WithTheBest in October is now online: https:/…"
+,,,,,,"@deborahhanus @astroVAV @AaronCourville It took us years of writing, 1-2 pages or sometimes sentences at a time :)"
+,,,,,,"@poolio There’s a difference between “in this work we investigate whether X and Y work together and it turns out th… https://t.co/cPCJz7PyJc"
+,,,,,,"@DaniCMBelg @WiMLworkshop @jennwvaughan An important new lower bound: 280 &lt; K(WIML excitement)"
+,,,,,,"RT @DaniCMBelg: 280 characters are insufficient to express how excited we are that @WiMLworkshop !starts in 1 week!!!!! We have an amazing…"
+,,,,,,"RT @junyanz89: For those who missed the horse2zebra live demo at ICCV tutorial on GANs, here is the video: https://t.co/JVV8uI0wP9  @philli…"
+,,,,,,"@sh_reya Maybe better software could make the laptop-&gt;cloud connection more seamless. User doesn’t invoke tmux but… https://t.co/eWz6Zdg3ff"
+,,,,,,"Re-Work has prepared a whitepaper on whether you should use AI in your business. My contribution is: the availabili… https://t.co/7CkyHRecFj"
+,,,,,,"@praneetx Seems worth trying"
+,,,,,,"@_omarshams_ Passwords have no function other than to be unique and hard to guess. Neural net weights have a primar… https://t.co/r7WQpVKQxI"
+,,,,,,"@_omarshams_ No, there are other strategies that work with no access to the model.  https://t.co/OU25r0oKED   https://t.co/TegyIvmVFf"
+,,,,,,"@unsorsodicorda @rasbt @jeremyphoward @fhuszar I’ve seen it but haven’t read it in detail yet. Do they actually com… https://t.co/aNjhfIRmhK"
+,,,,,,"@_omarshams_ It is in principle possible to make a perfect classifier that can’t be fooled.l, but very unlikely to… https://t.co/vXpAVI34PV"
+,,,,,,"@_omarshams_ “Space of images people care about” is a lot bigger when you need to provide security (because you car… https://t.co/mr1iZweZ54"
+,,,,,,"@ajlavin @unsorsodicorda @fhuszar @rasbt @jeremyphoward You can try it out by modifying the CleverHans tutorial"
+,,,,,,"@rasbt @fhuszar @unsorsodicorda @jeremyphoward You don’t need adversarial examples to fool traditional computer vision"
+,,,,,,"@fhuszar @unsorsodicorda @rasbt @jeremyphoward It works even if the defender isn’t a neural network"
+,,,,,,"@unsorsodicorda @fhuszar @rasbt @jeremyphoward Or you can directly use gradient-free optimization on the target mod… https://t.co/ktTXm3VrVe"
+,,,,,,"@unsorsodicorda @fhuszar @rasbt @jeremyphoward The attacker can train their own neural net to mimic the black box d… https://t.co/9X2ECwbqdG"
+,,,,,,"@rasbt @unsorsodicorda @jeremyphoward @fhuszar See “Ensemble Adversarial Training”, the code for which was used by… https://t.co/1xMVIrN6re"
+,,,,,,"@unsorsodicorda @rasbt @jeremyphoward @fhuszar See the experiments on blurring in “Adversarial Examples in the Phys… https://t.co/EkFsDSiZ6g"
+,,,,,,"@andresvourakis Twitter parsed the link wrong. You have to include the -"
+,,,,,,"RT @abhshkdz: Adversarial training + REINFORCE for Visual Dialog https://t.co/uHrol2z45r Nice results! State-of-the-art on VisDial https://…"
+,,,,,,"@JTremoureux @joelgrus @benhamner https://t.co/OCllCxe23p https://t.co/WZjDPGMuqE"
+,,,,,,"@hiconcep Add a - to the URL. Twitter parsed it wrong"
+,,,,,,"@Wihanbooyse Check out the AC-GAN paper. For too many classes, the model collapses disastrously. We are not really… https://t.co/rxbnOHqr3G"
+,,,,,,"RT @D_Berthelot_ML: My new record ""Latent Space"" is out!!!
+https://t.co/ecwxHcKkf1 …
+@mat_kelcey @recursix https://t.co/aHFrUFAwG8"
+,,,,,,"Does twitter offer a user interface element that makes it possible to tweet the following URL?… https://t.co/ipDnICWRlO"
+,,,,,,"@sedielem Yes. Fréchet Inception Distance is probably better. I imagine you could use this paper to game even FID t… https://t.co/esxmb6ZuM2"
+,,,,,,"@sigfpe @noop_noob Well, obviously. They're Presian. &lt;/s&gt;"
+,,,,,,"While GANs have been great at generating realistic images from a single category (one GAN for faces, another GAN fo… https://t.co/x6N2IQ9Vqa"
+,,,,,,"@azeem @iandanforth OK, that makes sense. Will be interesting to see if the app stays fast after its user base has had some time to grow"
+,,,,,,"@azeem @iandanforth I see. I didn't understand that the ad was for a newly launched service. If the high NHS wait t… https://t.co/1az9f4XW4O"
+,,,,,,"@cournape @iandanforth I don't have personal experience with the NHS; I've just read the press articles about it like the one I linked."
+,,,,,,"@biggiobattista @ICCV2017 Thanks!"
+,,,,,,"@iandanforth The average wait time to see an NHS GP is actually about two weeks, certainly not minutes. https://t.co/nOwjttZrf8"
+,,,,,,"RT @PHDcomics: Spread the word - Links at the bottom here: https://t.co/JIrELJ0M6i https://t.co/xqfqA9JMB2"
+,,,,,,"RT @AndrewYNg: It's not right for PhD programs to be accessible only to rich families. The current US proposal to tax tuition forgiveness i…"
+,,,,,,"@sashank06 @dennybritz @iamtrask @sirajraval @ylecun The proposal to tax grad student waivers is clearly terrible.… https://t.co/93uiQnvng3"
+,,,,,,"@dwf Post a comment with @fermatslibrary ‘s Librarian"
+,,,,,,"@theNikhilDev See “A note on the evaluation of generative models” by @lucastheis et al. It’s possible to generate r… https://t.co/hLqAASi8O8"
+,,,,,,"Check out @fermatslibrary 's Librarian, a Chrome extension that automatically shows comments for ArXiv papers:… https://t.co/u53kcT4LoO"
+,,,,,,"@javageek63 It’s worth trying out"
+,,,,,,"@Jovonni For both GANs and VAEs, their abilities today are probably very limited compared to their abilities a few years from now"
+,,,,,,"GANs for personalized ""predictive fashion"": https://t.co/m1BFiXJfi4"
+,,,,,,"RT @emsque: If my graduate tuition waiver had been taxed I would not have been able to afford to get my degree. I would not have the job I…"
+,,,,,,"RT @_AntreasAntonio: Check out our latest Data Augmentation GAN paper. https://t.co/BDLlX1WmZ3 https://t.co/thsQLSVJC1"
+,,,,,,"@IntuitMachine Keep in mind we do this only at the input layer. We still rely on continuous values and backprop thr… https://t.co/q4kLM79L17"
+,,,,,,"@furlanel It's possible that black-box ensemble adversarial training would even be *better* (our black box results… https://t.co/UP9xqEU1p7"
+,,,,,,"@poolio Yes, one big caveat is definitely that our white box results might be overly optimistic if we're just not v… https://t.co/rXZlqHHQeW"
+,,,,,,"@roydanroy Are you anticipating that they'll think it's biologically plausible (some part of the nervous system use… https://t.co/rzhmVjQXxG"
+,,,,,,"@furlanel Oh, I see what you mean. Yes, to make the adversarial example you do need some way to optimize over the d… https://t.co/8fXGHNhlj8"
+,,,,,,"@twelshed I think not because all the spikes in a spike train still affect the same set of synapses. The key of thi… https://t.co/rv9abNriqR"
+,,,,,,"@biggiobattista We haven't experimented much with different norms because it's hard to guarantee that class changes… https://t.co/PqmkuNLMv3"
+,,,,,,"@biggiobattista For Fig 8, keep in mind that it's not quite an apples to apples comparison (discrete optimizer vs c… https://t.co/oVsOnQlQEl"
+,,,,,,"@kcimc Thermometer worked the best for us: more robustness to adversarial examples, trains faster (when training on adversarial examples)"
+,,,,,,"@furlanel Actually there's no need to backprop through the encoding, because it's at the input of the model, before… https://t.co/TiPhZIEqop"
+,,,,,,"@Miles_Brundage I like the title a lot too! It was @colinraffel 's idea"
+,,,,,,"Thermometer encoding has closed most of the accuracy gap for strong, iterative white-box adversarial examples on SV… https://t.co/CdeUBCuon6"
+,,,,,,"RT @Smerity: @jeremyphoward @seb_ruder @yoavgo I feel adversarial training methods might be less used than they could be for ""dataset augme…"
+,,,,,,"RT @dyobs: #ai #security - ensemble #adversarial training &amp; gradient masking 
+@GeekPwn @ComputerHistory @kaggle competition https://t.co/Yw…"
+,,,,,,"@LoveStats While this panel could stand to be more diverse, it does include Emily Denton"
+,,,,,,"@elionaimc @_ambodi There is hardware support for float64 but it’s typically significantly slower"
+,,,,,,"@javageek63 https://t.co/0Y9aam0MnF"
+,,,,,,"@spiantino @_ambodi I think float32 is still the most popular but custom half precision works well. The fewer bits… https://t.co/nedLG7svUp"
+,,,,,,"10 minutes of ganime: https://t.co/R2bllerEAk"
+,,,,,,"@_mb46_ @_ambodi Just watch https://t.co/7XNSKxFkQ1"
+,,,,,,"@_ambodi Another downside to float64 is 2X memory consumption"
+,,,,,,"RT @shakir_za: The .@googleresearch PhD fellowship awards have been extended to include Africa. Please encourage good applicants to apply!…"
+,,,,,,"@fulhack @kdnuggets I feel like this chart is trying to make it hard. All you need is p(x_{n+1} | x_1, ..., x_n) =… https://t.co/pYYpnAzaVe"
+,,,,,,"RT @andrewgwils: Our paper, the Bayesian GAN, is appearing as a spotlight at #nips2017! 
+https://t.co/4CPnHIrrlk
++code!
+https://t.co/9tvbDe…"
+,,,,,,"@HiteshUVaidya @sirajraval Maybe, but it’s been difficult to generate discrete data so far"
+,,,,,,"RT @GeekPwn: Last year, Alexey Kurakin &amp; @goodfellow_ian came to #GeekPwn with ""Adversarial Examples in the Physical World"". https://t.co/v…"
+,,,,,,"@Mithun_Aggarwal @TensorFlow @Sydney_Uni @Eng_IT_Sydney @SydneyUni_Media @googleresearch One of the first programs… https://t.co/RyWjxKL6Uj"
+,,,,,,"RT @googleresearch: See the GraspGAN in action  https://t.co/U4DhPUjU6E"
+,,,,,,"RT @googleresearch: Have you ever wondered what goes on inside #NeuralNetworks? Learn how @distillpub explores feature visualization at htt…"
+,,,,,,"RT @mtyka: Will be presenting on ML Generative Art (DeepDream, GAN Portraits, Archive Dreaming) at the AI Art and Aesthetics Symposium in O…"
+,,,,,,"RT @fightfortheftr: What
+
+if
+
+the
+
+Internet
+
+was
+
+so
+
+slow
+
+and
+
+throttled
+
+that
+
+everything
+
+loaded
+
+one
+
+word
+
+at
+
+a
+
+time
+
+and
+
+it
+
+took…"
+,,,,,,"RT @techreview: Innovator Under 35 @goodfellow_ian invented a way for neural networks to get better by working together: https://t.co/bq86k…"
+,,,,,,"RT @genekogan: running face recognition over that one-hour video of GAN-generated celebrity faces released by @NvidiaAI last week (https://…"
+,,,,,,"@AndrewYNg Thanks!"
+,,,,,,"RT @sarahookr: Our work shows the explanations of a model prediction can be mislead by simple input transformations to show a cat.  https:/…"
+,,,,,,"Part of why I like @WithTheBest is that it doesn’t require travel-related carbon emissions to participate https://t.co/WIcipCoGXA"
+,,,,,,"@Ritwik_G I might come by next year while I’m in the general area for @NicolasPapernot ‘s thesis defense"
+,,,,,,"@dribnet @hardmaru The problem is too many methods that fall apart on real data work fine on MNIST"
+,,,,,,"@hardmaru Why MNIST? There’s no interesting variation in performance on it anymore. A subset of SVHN can be just as fast but more realistic"
+,,,,,,"@hardmaru Notebooks are usually just an extra layer or two of config hell"
+,,,,,,"@jannesklaas Hard G, rhymes with “can”. But I’m fine with variations"
+,,,,,,"@lewisshepherd @NicolasPapernot https://t.co/Rzwb9baTrc"
+,,,,,,"@lewisshepherd @NicolasPapernot https://t.co/qSYz1aYQZ8 (Used by all the top entries in the NIPS contest)"
+,,,,,,"@lewisshepherd @NicolasPapernot https://t.co/x4UCNFn64I"
+,,,,,,"@lewisshepherd @NicolasPapernot Can’t guarantee we will write a new blog post but there have been some good advances this year"
+,,,,,,"TensorFlow launches Easy Mode... I mean, Eager Mode https://t.co/lwZrDO8uLU"
+,,,,,,"ICLR submissions are welcome at the NIPS Machine Deception workshop. Submissions close Wednesday. https://t.co/VyngWgGP9t"
+,,,,,,"An hour of GAN interpolation: https://t.co/Nxf7VW9pH9"
+,,,,,,"@AlisonBLowndes @AndrewYNg Definitely! I tweeted the progressive GANs video over the weekend"
+,,,,,,"RT @NicolasPapernot: NIPS ML and Security workshop deadline Fri Nov 3. We welcome your relevant Oakland and ICLR submissions! CFP here: htt…"
+,,,,,,"@divyanshkhanna1 @therumsticks The dataset is only celebrities, so not a very large / diverse training set"
+,,,,,,"@RobertoParPal Wow!"
+,,,,,,"@Kaaz1992K @AnimaAnandkumar @zacharylipton which results specifically?"
+,,,,,,"Impressive high-res GAN results! https://t.co/iwRC1UjkwN (Maybe jump to 2:00 or 4:30)"
+,,,,,,"@rgov @johnregehr Random perturbation is common too. A lot of the time people do it and don’t bother to mention it… https://t.co/LkPUZ30mok"
+,,,,,,"@yoavgo  https://t.co/wglXTHsic0"
+,,,,,,"RT @WonderMicky: All #HEPML/#MLHEP ppl: go see @goodfellow_ian's talk on #GANs @CERN tmrw! Live webcast on page for CERNies abroad https://…"
+,,,,,,"@yusssk 2/2) that, we highly encourage candidates with non-traditional backgrounds and experiences from all over th… https://t.co/G0JWiMb1HI"
+,,,,,,"@yusssk 1/2) ""Ideal candidate either has a degree (BS, MS or PhD) or equivalent experience in STEM field such as CS… https://t.co/Yyp0WLiACz"
+,,,,,,"Applications for the 2018 Google AI Residency Program are open.  If you want to learn to do deep learning research… https://t.co/fBWckTvtsP"
+,,,,,,"@biggiobattista @ICCV2017 Christian's work was on arxiv as of 2013, not 2014. https://t.co/OU25r0oKED He showed it… https://t.co/9uC4VQFwgz"
+,,,,,,"RT @balajiln: Check out our new paper with @elaClaudia, @shakir_za and @goodfellow_ian https://t.co/SMtTYb6Xr3"
+,,,,,,"@tranlaman Sorry, I’ve already left the conference"
+,,,,,,"@itamblyn Thanks, will let you know. I love Ottawa but I don’t get much time to travel"
+,,,,,,"RT @junyanz89: Horse2Zebra live demo at ICCV 2017 tutorial on GANs. Horse mask is the most animal-friendly way. @phillip_isola @goodfellow_…"
+,,,,,,"RT @hardmaru: StackGAN-v2 looks impressive. https://t.co/rRITIZMWVn"
+,,,,,,"@itamblyn Yes, also check out https://t.co/6Dp3UA8IWT"
+,,,,,,"@unsorsodicorda There are GANs in the first edition"
+,,,,,,"Would you want to buy a Deep Learning textbook in person at NIPS 2017? If so, reply---trying to decide whether to do a signing"
+,,,,,,"@arturokkboss33 I’m not selling books at ICCV actually"
+,,,,,,"@ShadiAlbarqouni Yes, at least for my own talk"
+,,,,,,"@ernestyalumni I use TensorFlow for all my GAN research now. Haven’t updated to CUDA 9 yet though"
+,,,,,,"@triketora I'm imagining the alien message from Arrival decoding to ""please add me to your LinkedIn network"""
+,,,,,,"@schaumberg_a @NipsConference At SOCML, we do our best to recruit participants from many underrepresented groups"
+,,,,,,"@PeterLoPR Yes, I’ve seen it"
+,,,,,,"@timnitGebru I don’t know, sorry"
+,,,,,,"RT @lucastheis: I will speak about the evaluation of generative models at the tutorial on GANs. https://t.co/ceyzYB0Ur4"
+,,,,,,"If you’re at #iccv2017 on Sunday, check out our tutorial on GANs: https://t.co/o0BPVe4Pjn"
+,,,,,,"RT @techreview: One in every six deaths around the world is linked to toxic air, water, soil, or workplaces. https://t.co/D0rNZEp6F7"
+,,,,,,"@rohegde7 It will be added here later: https://t.co/g2rpXxI7Je"
+,,,,,,"@lanceTurnBull1 @jeremyphoward @PyGurl There’s the commonlounge forum linked on the book website"
+,,,,,,"Full room ready to hear about machine learning security at BayLearn today https://t.co/4yIY4Pr3rQ"
+,,,,,,"Come see several great speakers at Age of AI: https://t.co/ENsMCqhXiY"
+,,,,,,"@DimosGu @ozansener Wow, I wasn't aware Black in AI Participants got a million dollars. Those are generous travel grants!"
+,,,,,,"RT @jeremyphoward: Amazing resource thanks to @PyGurl: video walkthru of every single chapter of the famous @goodfellow_ian Deep Learning b…"
+,,,,,,"RT @WithTheBest: Didn't get a chance to attend our conference last weekend? Check out @goodfellow_ian's full talk for #AIWTB https://t.co/e…"
+,,,,,,"@xamat PCA (Presentation Components Analysis)"
+,,,,,,"XIX.ai has written an overview of adversarial examples: https://t.co/z65eozCmYJ"
+,,,,,,"@collawolley @typeload (It is @timnitGebru who deserves the credit, not me)"
+,,,,,,"@typeload @nicolouchka @Korede_TA How many black people do you think even attended NIPS last year?"
+,,,,,,"@Korede_TA That’s one word for it..."
+,,,,,,"@Abaybektursun This is press coverage of vue.ai and I think they haven’t written an academic paper"
+,,,,,,"@AiAiHealthcare At the moment they are aiming to replace marketing photoshoots"
+,,,,,,"As of dev round 3 in our competition, all top 10 defense teams used this technique https://t.co/eDBq3cfOIU"
+,,,,,,"@pfau @dribnet Yes, the main problem with GANs has always been underfitting (hard to find the equilibrium), not overfitting"
+,,,,,,"@rednecked_crake @pfau @dribnet Minibatch GANs (Salimans et al 2016) address that but it’s not enough apparently"
+,,,,,,"@DVA_AND_VDN You still need a 3D mesh of the clothes to render them though. There's variation in the 3D shape of th… https://t.co/b9PyjuzKJJ"
+,,,,,,"@pfau @dribnet If you do have evidence of memorization you should publish it"
+,,,,,,"@pfau @dribnet The best published work on the subject says they have low output diversity, but don’t memorize train… https://t.co/HcDwZ3HB3Q"
+,,,,,,"@pfau @dribnet I definitely am the first to say GANs need a lot of improvement, but I have never seen them memorize training examples"
+,,,,,,"@pfau @dribnet Keep in mind this is *conditional* generation so it can’t just repeat training images"
+,,,,,,"@DVA_AND_VDN I don’t think this method requires a 3D mesh of the clothing. Also the article says it generates the shape of the person"
+,,,,,,"@WuNeal @davegershgorn @GoAbiAryan Oh, yeah, you're right. I made a mistake based on 1 of the 2 she listed was inco… https://t.co/bovmN4yubI"
+,,,,,,"@typeload @nicolouchka I'm just wondering why no one has asked this question about WIML / WIDL and gender"
+,,,,,,"@typeload @nicolouchka Other people asked the same question in my earlier replies and you can see some discussion there"
+,,,,,,"@chrisdonahuey 2/2 It sounds like it's meant to produce images for marketing, so all the fits will be good, but for… https://t.co/09bfN2jysV"
+,,,,,,"@chrisdonahuey 1/2 The article doesn't give us enough information to know, but it sounds like it's not meant to pre… https://t.co/HW6lNVXPoz"
+,,,,,,"@davegershgorn @GoAbiAryan So a human discriminator gets 12.5% accuracy, even with the hint that exactly 2 are real"

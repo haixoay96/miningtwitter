@@ -1,0 +1,80 @@
+﻿NAME,FOLLOWER,LIKE,DESCRIPTION,"TOTAL RETWEET",TOTAL_LIKE,TWEET
+yablak,198,1,"Google Brain",9977,66,"@AstroKatie Diaspora by Greg Egan"
+,,,,,,"RT @erikbryn: Open enrollment has started for health coverage at https://t.co/a6nJPBAUCb
+
+Retweet if you want more Americans to have health…"
+,,,,,,"@mat_kelcey you're at corl?  Lunch?"
+,,,,,,"RT @PyTorch: Pyro, a probabilistic programming language on top of @PyTorch from Uber AI Labs
+https://t.co/pSS2koFLDG
+https://t.co/Zy7qDAKVxg"
+,,,,,,"@ericjang11 https://t.co/jsyPYNnTkw"
+,,,,,,"@katecrawford learned via black box optimisation.  Are the distilled models no longer black box? (3/3)"
+,,,,,,"@katecrawford the payout was based on hinged linear models and (relatively) easy to read.  But the parameters of these models were (2/3)"
+,,,,,,"@katecrawford @marcua the issue is much more subtle than that.  When we sold indexed weather insurance to farmers at climate corp, (1/3)"
+,,,,,,"RT @clmt: Amazing work from NVIDIA Research (Tero Karras et al) https://t.co/g60caEkK85 . Taking GANs to the next level: https://t.co/5H0jJ…"
+,,,,,,"RT @britmarling: I put pen to paper about my own experience in hopes that it would give myself + others solace, strength + context
+https://…"
+,,,,,,"@AstroKatie seems like there's an equivalent situation with quantum phys. but people are more used to the unintuitiveness of wave duality."
+,,,,,,"RT @hardmaru: Nervana Systems released Coach, a Deep RL library. Even if you don't use it, the docs are a great reference point. https://t.…"
+,,,,,,"@dustinvtran @soumithchintala @KaiLashArul biggest challenges: numerical stability, special functions, npy broadcasting+batch support."
+,,,,,,"@dustinvtran @soumithchintala @KaiLashArul glad you like it!  we've found tf.distributions to be a great building block."
+,,,,,,"RT @OriolVinyalsML: Quite addicting to witness self-play improvements over time. Go #AlphaGoZero! https://t.co/SlFRUuxLPi https://t.co/8BqB…"
+,,,,,,"@martin_wicke this is why i introduce subtle and hard to find bugs in all my ML code..."
+,,,,,,"@hardmaru i saw a lime bike at the YouTube office in San Bruno today!  no gbikes there."
+,,,,,,"@poolio and the new suggested regularization looks easy enough to implement. they're saying new state of the art on mnist😄"
+,,,,,,"@mat_kelcey +1 you'd make a killing. but do a 2 week instead"
+,,,,,,"@MusicSF @wjarek and Trump is the sith lord."
+,,,,,,"RT @ericjang11: One weird trick to get 10x training speed. Placeholders hate him! https://t.co/8tcTvi9lho"
+,,,,,,"RT @gabrielpeyre: Fourier is to convolution what Legendre is to inf-convolution. 
+https://t.co/JyKBxtpJPc
+https://t.co/VRWANtMKph https://t…"
+,,,,,,"RT @TensorFlow: Can't wait until an official release to try new features? Try our tf-nightly and tf-nightly-gpu pip packages! 
+
+↓ https://t…"
+,,,,,,"RT @pabbeel: Beautiful explanation of Max-Ent Deep RL by Haoran Tang and Tuomas Haarnoja! Also model-free RL (from scratch) on real robot :…"
+,,,,,,"RT @googleresearch: Google AI Residency Program (formerly the Brain Residency Program) applications are now open. Learn more &amp; apply at htt…"
+,,,,,,"RT @mat_kelcey: ohohoh!! new @kblock43 video! #Climbkhana https://t.co/xAUumLgC2k"
+,,,,,,"RT @sarahookr: I love this. Really intuitive and accessible introduction to game theory and incentive models based upon trust. https://t.co…"
+,,,,,,"finally!  RT @CppCon: @TitusWinters Blog post about #Abseil https://t.co/dl4EJBeHUO"
+,,,,,,"RT @geoffreyirving: Pet peeve: ""supplementary material"" for papers.  There's no reason why in 2017 we're sufficiently space limited to not…"
+,,,,,,"RT @Azaliamirh: Not true but hilarious! 😊https://t.co/0EtiVXiQFE https://t.co/3qXHEt1tYe"
+,,,,,,"RT @chelseabfinn: A concise and concrete article on gender bias in CS by John Hennessey, Dave Patterson, and Maria Klawe
+https://t.co/wvxid…"
+,,,,,,"RT @nikiparmar09: Check out the examples and their attention distributions. https://t.co/mkSxyowAmw"
+,,,,,,"@dennybritz interesting commentary: https://t.co/0iSSpKQgmZ"
+,,,,,,"@dennybritz where's acktr?"
+,,,,,,"@jwangARK the diagram is wrong. keras supports all architectures that tf does."
+,,,,,,@marcua
+,,,,,,"LOL ""The PL/pgSQL code can be executed
+on any database system, as long as that database system
+is PostgreSQL.""  https://t.co/xvtmHJwvVK P114"
+,,,,,,"@colinraffel maybe we should add an alias 😁"
+,,,,,,"@colinraffel thanks for your ideas, insight, and implementations of monotonic attention!"
+,,,,,,"RT @petewarden: Cross-compiling @tensorflow for the @Raspberry_Pi https://t.co/gwrbRjfFfv 
+We now have official binaries thanks to @yablak…"
+,,,,,,"@Img_Prasanna @petewarden @tensorflow @Raspberry_Pi @Sabraha @snips link us some code and we can work to automate it"
+,,,,,,"@paulg case in point: https://t.co/whCsdvybyl"
+,,,,,,"@paulg though i do like being able to ignore retweets on a per user basis... wish fb had equivalent functionality."
+,,,,,,"@paulg isn't meanness subjective by culture?  wouldn't the organic solution favor auto filtering, inducing an fb-like echo chamber?"
+,,,,,,"@dustinvtran awesome!  took a while to bring distributions to core and i hope to move many more by 1.4 / 1.5."
+,,,,,,"RT @dustinvtran: TensorFlow v1.3.0, including first official release of the `tf.distributions` library https://t.co/TO2idbd3QG"
+,,,,,,"RT @OriolVinyalsML: Launching StarCraft2 Learning Environment (Linux)! A3C baseline on mini &amp; full game + policies trained on 1M replays.ht…"
+,,,,,,"RT @Google: Read the note to employees from our CEO Sundar Pichai about the memo that was circulated over the past week → https://t.co/wzcN…"
+,,,,,,"@kostyainua though i wouldn't rule out some of the t2t architecture eventually making its way to tf.contrib."
+,,,,,,"@kostyainua no. t2t is not generically rnn-like (at least at training); nmt is a tutorial for tf.contrib.seq2seq, which is."
+,,,,,,"@OriolVinyalsML hope you put in a good word for https://t.co/O8EyYfwbbZ @lmthang."
+,,,,,,"RT @mims: ex-Googler shreds the internal manifesto https://t.co/iXzJbxtSzc"
+,,,,,,"@funwithbill Are you running adblock?"
+,,,,,,"@00gavin how well does starcluster scale past 10-20 machines?  is there a good alternative to NFS? (prefer high throughput to low latency)"
+,,,,,,"@nicferrier thank you!"
+,,,,,,"@nicferrier marmalade-repo is returning bad gateway"
+,,,,,,"@o0dano0o yay!  It has a mobile interface btw"
+,,,,,,"@MorganGrahovec err nyc"
+,,,,,,"@MorganGrahovec it's a misspelled transliterstion of the word apple in Russian.  I spend about half my time in byc now."
+,,,,,,"@MorganGrahovec not yet.  Saw the last one in imax and the battle scene with big v was in 3d.  As was the quidditch match!"
+,,,,,,"@o0dano0o thought so!  Name was 'irony of fate'"
+,,,,,,"@MorganGrahovec watch it on imax!"
+,,,,,,"Error bars, corrected. http://mypict.me/9WPc"
+,,,,,,"Error bars.  My life for the past week. http://mypict.me/9WNQ"
+,,,,,,"@yablak ok.  Appendaging of address is creepy.  Option off http://myloc.me/9We0"
+,,,,,,"Tweet tweet.  Or is it, twit twit? http://myloc.me/9W7R"

@@ -1,0 +1,265 @@
+﻿NAME,FOLLOWER,LIKE,DESCRIPTION,"TOTAL RETWEET",TOTAL_LIKE,TWEET
+transcranial,829,453,"Co-founder, MD.ai. Engineer. Doctor. Electronic musician. @harvardmed, @MIT, @UW alum.",166496,100,"RT @AndrewYNg: New result! ML to help prioritize palliative (end-of-life) care. Learned from ~200K patient records to estimate risk of deat…"
+,,,,,,"RT @awnihannun: My new article: ""Sequence Modeling With CTC"" published in @distillpub!
+https://t.co/IApWKXWF6Z https://t.co/ROmwZEBKYc"
+,,,,,,"RT @zacharylipton: For interpretable ML (i.e. XAI) to progress, we must move beyond
+""The Doctor Just Won't Accept That!""  
+and figure out w…"
+,,,,,,"RT @AndrewYNg: Should radiologists be worried about their jobs? Breaking news: We can now diagnose pneumonia from chest X-rays better than…"
+,,,,,,"RT @distillpub: Feature Visualization - a new Distill article by @ch402 @zzznah &amp; @ludwigschubert. https://t.co/Ckqq3QFYDR"
+,,,,,,"RT @OpenAI: Deep linear networks can learn to perform nonlinear computation due to imprecision in floating point arithmetic: https://t.co/T…"
+,,,,,,"RT @linclark: neat tool to clean up background noise from audio files in the browser with WebAssembly
+https://t.co/8I7NxxHnWM
+https://t.co/…"
+,,,,,,"RT @NEJM: Perspective: Lost in Thought — The Limits of the Human Mind and the Future of Medicine https://t.co/uLXBYYPwF2 by @oziadias  &amp; @T…"
+,,,,,,"@alexbrattmd @SIIM_Tweets Have fun! Wish I could be there. Would be interested in checking out your slides!"
+,,,,,,"RT @nattyover: I wrote about a potentially major advance in the theoretical understanding of deep learning: https://t.co/jrRGubzuBs"
+,,,,,,"RT @kcimc: i wrote a short post ""neural nets for generating music"": a very brief history + survey of the last few years https://t.co/HXiejY…"
+,,,,,,"@nsthorat @dsmilkov @c_nich Looks great, congrats! Excited to use it."
+,,,,,,"@hardmaru @nsthorat @dsmilkov @c_nich @Google This looks awesome. Convnetjs, Keras.js, TensorFire, now deeplearn.js… https://t.co/oyKxpthK4b"
+,,,,,,"RT @hardmaru: deeplearn.js: hardware-accelerated machine learning library for web browsers, by @nsthorat @dsmilkov @c_nich @google https://…"
+,,,,,,"RT @summerfieldlab: ""Neuroscience-inspired A.I."" - new neuron review with @demishassabis @dharshsky and Matt Botvinick @DeepMindAI https://…"
+,,,,,,"RT @fchollet: Some of my thoughts on the future of deep learning: https://t.co/PweWuM1C8h - This is the follow-up to yesterday's post on th…"
+,,,,,,"RT @fchollet: My quick write-up on the limitations of deep learning: https://t.co/9upBSqsOOb It's meant as an intro to tomorrow's post on t…"
+,,,,,,"RT @codinghorror: GPU accelerated JS! https://t.co/P1HIkUr3Rt"
+,,,,,,"RT @alexjc: Enhanced Deep Residual Networks for Single Image Super-Resolution https://t.co/5DnWWSuBQI Winner of NTIRE2017 SR challenge, imp…"
+,,,,,,"RT @monsoon0: Maryam Mirzakhani, the only female mathematician ever to win the Fields medal has passed away at the age of 40 https://t.co/K…"
+,,,,,,"@galharth What makes it tough are healthcare data security concerns (obv.), but also labelling the data after-the-f… https://t.co/Jv4u6GruUM"
+,,,,,,"@galharth Most of that data just gets used for isolated research studies, or archived and rarely touched again."
+,,,,,,"@galharth Path trajectory plans to brain structures for laser ablation or deep brain stimulation electrode targetin… https://t.co/RprgL6TDmX"
+,,,,,,"@galharth Continuous EEG monitoring (external and intracranial) in epilepsy patients. Continuous physiologic time s… https://t.co/smMzFmeLOJ"
+,,,,,,"And possibly memory enhancement/augmentation."
+,,,,,,"Hopeful that some of our work on phase-dependent neurostimulation will lead to treatments in memory disorders in humans as well."
+,,,,,,"Thalamic spindles promote memory formation through triple phase-locking with cortical and hippocampal rhythms: https://t.co/uZtXp0iOp1"
+,,,,,,"Really interesting concept of convolutions on submanifolds, from inventor of t-SNE: similar perf at lower FLOPs https://t.co/LX4QjOulW0"
+,,,,,,"Had great time catching up w/ a past mentor at Johns Hopkins neurosurgery. So much unique data waiting to be unlocked..."
+,,,,,,"RT @NI_News: 'PUSH TURN MOVE', a book about the design of electronic music instruments, is a @kickstarter project worth support → https://t…"
+,,,,,,"RT @RichardSocher: A new reinforcement and deep learning model for summarization.It generates long language sequences that make sense. 
+htt…"
+,,,,,,"@dribnet @shiffman @jongold @hardmaru @p5xjs Yeah, @dribnet is right, unfortunately -- for now. Will find time to work on it soon!"
+,,,,,,"RT @SpaceX: Falcon 9 first stage has landed on Of Course I Still Love You — world’s first reflight of an orbital class rocket."
+,,,,,,"@OriolVinyalsML early stopping would help"
+,,,,,,"RT @DrSidMukherjee: In the realm of medicine, real knowledge comes from knowing ""together"". thoughts on deep learning and AI in medicine ht…"
+,,,,,,"RT @distillpub: Machine Learning Research Should Be Clear, Dynamic and Vivid.
+Distill Is Here to Help.
+https://t.co/BZegy07cmL https://t.co…"
+,,,,,,"RT @fchollet: Introducing Keras 2: https://t.co/83GsSJgGfE"
+,,,,,,"RT @OriolVinyalsML: Networks computing their own synthetic gradients. Now with some theory brought to you by Woj and Grzegorz. https://t.co…"
+,,,,,,"RT @googleresearch: Researchers are investigating how deep learning can complement pathologists' workflow. Learn more at https://t.co/5X5Wo…"
+,,,,,,"RT @soumithchintala: FAIR releases faiss. Many uses: text2image by searching through 1B or 100B images? RL Agent with VERY LARGE memory?
+ht…"
+,,,,,,"RT @saakohl: `Adversarial Networks for the Detection of Aggressive Prostate Cancer' - https://t.co/aOc9AuHzEn @soumithchintala @goodfellow_…"
+,,,,,,"RT @elonmusk: Fly me to the moon ... Ok
+https://t.co/6QT8m5SHwn"
+,,,,,,"RT @hardmaru: Self-Driving Cars in a Browser w/ Neural Net-based ML Framework called NeuroJS. Supports DQN, DDPG. Very Impressive! https://…"
+,,,,,,"@janhuenermann really well-done and fun. keep up the amazing work!"
+,,,,,,"RT @randal_olson: Neat web tool: Search for photos by drawing them. #machinelearning
+
+https://t.co/PBHZVsO4WO https://t.co/RSzYO0Dr3G"
+,,,,,,"RT @NASA: The TRAPPIST-1 star &amp; 7 Earth-sized planets orbiting it, are relatively close to us; located ~40 light-years away: https://t.co/Q…"
+,,,,,,"RT @tensorflow: Here’s the complete #TFDevSummit playlist for those who want to rewatch a talk, or if you missed the livestream. https://t.…"
+,,,,,,"RT @StanDehaene: Human memory compresses spatial sequences to their minimal description length in a recursive language of thought.
+https://…"
+,,,,,,"RT @douglas_eck: Please check out my #TensorFlow talk about Magenta: https://t.co/vLBTO2ZJEk. Quite the orange t-shirt :-)"
+,,,,,,"RT @alexanderchen: A.I. Duet is a new experiment I worked on with @yotammann @CChristiansen1 lets you play a duet with the computer: https:…"
+,,,,,,"RT @EricTopol: When your MRI scan activates tiny robots inside you https://t.co/AkUeYZXLEG
+@SciRobotics @Philips https://t.co/etVzIbWByo"
+,,,,,,"RT @juliagalef: This is a very ominous first paragraph of a textbook (States of Matter, by David Goodstein): https://t.co/POlhOdQNaV"
+,,,,,,"@xtbot @karpathy PyTorch is quite nice!"
+,,,,,,"RT @googleresearch: #TensorFlow Fold brings batching to #deeplearning models that operate over data of varying size and structure https://t…"
+,,,,,,"RT @kaggle: Visualize high-dimensional data w/ Hypertools, based on familiar friends matplotlib, seaborn &amp; scikit-learn #DataViz https://t.…"
+,,,,,,"RT @googleresearch: Introducing YouTube-BoundingBoxes, a dataset of bounding boxes that track objects in temporally contiguous frames https…"
+,,,,,,"RT @EricTopol: A creative way to power ingestible biosensors
+https://t.co/VNm0t00Q1j @natBME 
+@MITEngineering @kochinstitute https://t.co/5…"
+,,,,,,"RT @rethinkdb: Thanks to the hard work and generosity of @CloudNativeFdn, we are delighted to join the @linuxfoundation! https://t.co/ikxfv…"
+,,,,,,"RT @goodfellow_ian: Video of my NIPS tutorial on GANs: https://t.co/tEmIWmuyDT"
+,,,,,,"RT @fchollet: Keras.js is useful for building browser-based demos of deep learning applications. Here, food classification: https://t.co/JK…"
+,,,,,,"RT @EricTopol: Deep learning #AI = dermatologists
+Perhaps the most impressive #AI-medicine pub yet @nature https://t.co/6g1Y6TIg77 https://…"
+,,,,,,"RT @lukede0: New joint work: Learning Particle Physics by Example: GANs for Physics Synthesis (https://t.co/nQbNSjnvks). #Keras code coming…"
+,,,,,,"RT @PyTorch: GPU Tensors, Dynamic Neural Networks and deep Python integration. Hello world!
+https://t.co/b35UOLhdfo https://t.co/MnuNVqJVZK"
+,,,,,,"RT @soumithchintala: Been working on this for the last few months. Hope you enjoy the early release :) https://t.co/yEFegbNf0q"
+,,,,,,"RT @dennybritz: Engineering is the bottleneck in (Deep Learning) research - I just had to write up a little rant ;) https://t.co/UFsl0VzpPt"
+,,,,,,"RT @tacaswell: Happy to announce matplotlib 2.0 is released!
+
+https://t.co/6y8mdL2M4X
+
+https://t.co/Zsl5zq6F6R
+
+#matplotlib"
+,,,,,,"RT @fchollet: @rbhar90 @tensorflow we will be integrating Keras (TensorFlow-only version) into TensorFlow."
+,,,,,,"RT @dotMudge: Great 'what if?' series.
+
+Some hit too close to home... https://t.co/GYkmijfviZ"
+,,,,,,"RT @gdb: Defining the CTO role at @OpenAI: https://t.co/6t5yvK83Pu"
+,,,,,,"RT @ricard_sole: Why is life complex at all? See our paper: ""Information theory, predictability, and the emergence of complex life"" https:/…"
+,,,,,,"RT @GaelVaroquaux: Python 3.6 great for science:
+● faster function call with Cython support https://t.co/wT9ocgeLdH
+● clean JIT support htt…"
+,,,,,,"RT @EricTopol: The overuse of medical services: a pandemic, but worst in the US https://t.co/eGl39EPStV @TheLancet impressive paper https:/…"
+,,,,,,"RT @NewYorker: Ted Chiang, the author behind the film “Arrival,” has gained a rapturous following: https://t.co/jxxa2y1AUM https://t.co/oeH…"
+,,,,,,"@DrLukeOR Truth is expensive. Any thoughts on how the labeling process can be made more efficient here?"
+,,,,,,"RT @demishassabis: Huge congratulations to the team for their amazing work in 2016 (see blogpost recap), and looking forward to an even mor…"
+,,,,,,"RT @RichardSocher: Good overview of recent advances in deep learning for radiology: https://t.co/oAw8ICheZc"
+,,,,,,"RT @samim: What comes after ""CAD"" (Computer Aided Design) ? https://t.co/UT3R0pnnUZ"
+,,,,,,"Massively distributed ambient AI. Cool post by @petewarden: https://t.co/YScPoguibA https://t.co/jZOrtj5jKD"
+,,,,,,"RT @graphific: Learning Visual N-Grams from Web Data with a new Jelinek-Mercer loss based on n-gram smoothing https://t.co/jda6uBPhsf https…"
+,,,,,,"RT @alexjc: YOLO9000: interesting collection of object-detection tricks, SoTA &amp; real-time classification from 9k categories. https://t.co/O…"
+,,,,,,"RT @Smerity: Gated Convolutional Networks beat LSTM on LM (WikiText-103 &amp; One Billion LM for single GPU), faster than CuDNN LSTM
+https://t.…"
+,,,,,,"RT @NEJM: MRI showing a 2.5-cm rupture of the left uterine wall and a large amniocele that contained fetal legs. https://t.co/Gx1E8akaQn ht…"
+,,,,,,"@ericjang11 @pluskid nice, looks like inspiration was taken from keras.js? https://t.co/ys8yXvh3gh"
+,,,,,,"RT @nytgraphics: We mapped the shadows of every building and every block in New York City: https://t.co/Q0q5kGlSFs https://t.co/6IKav1oAw7"
+,,,,,,"RT @soumithchintala: Yet again, @scottgray76 provides faster GeMM kernels than what NVIDIA provides in CuBLAS. This looks very useful.
+http…"
+,,,,,,"RT @AndrewYNg: Idioms that I don't use when describing self-driving car companies:
+(1) Killer app 
+(2) Hit the road 
+(3) Spin-out"
+,,,,,,"RT @samim: StackGAN: ""Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks"": https://t.co/3zlKlWRwgL https:…"
+,,,,,,"RT @hardmaru: Visualizing Handwriting Predictions with RNNs inside your web browser. New post by @shancarter, @enjalot and myself. https://…"
+,,,,,,"Deep learning for automatically analyzing pediatric bone age x-rays: https://t.co/skFx2uOnuI"
+,,,,,,"RT @OpenAI: We're releasing Universe, a platform for measuring and training AI agents: https://t.co/bx7OjMDaJK"
+,,,,,,"@DrLukeOR Love your writing - entertaining and insightful. Keep em coming."
+,,,,,,"RT @cvondrick: Recognizing objects and scenes from sound only. Turn on your speakers! More visualizations: https://t.co/CJK75ZB8g0 https://…"
+,,,,,,"RT @AndrewYNg: MusicNet: Huge new annotated music dataset for AI; will spur creativity. Thanks Sham Kakade &amp; team! https://t.co/StrZnAxQKh"
+,,,,,,"RT @jeffclune: Introducing Plug &amp; Play Generative Networks. These are images synthetically generated by #DeepNeuralNetworks. More: https://…"
+,,,,,,"@DrLukeOR well said - overhyping will only hurt us in the long run."
+,,,,,,"RT @DrLukeOR: Do machines already beat doctors? I try to answer this question as a #radiology doctor and #deeplearning researcher. https://…"
+,,,,,,"RT @random_forests: TensorBoard now supports visualizing embeddings. Will make sure we have some even better tutorials soon. https://t.co/u…"
+,,,,,,"RT @googleresearch: Learn about a deep learning algorithm capable of interpreting signs of diabetic retinopathy in retinal photographs - ht…"
+,,,,,,"RT @thomaskipf: We are releasing the code for Semi-Supervised Classification with Graph Convolutional Networks (in TensorFlow): https://t.c…"
+,,,,,,"RT @cvondrick: Fantastic conditional GAN results by Isola et al https://t.co/omdWEyfGF6 https://t.co/zRmknPgoTu"
+,,,,,,"RT @LedigChr: We updated SRGAN: extensive
+mean opinion score (MOS) test confirms hugely significant
+gains in perceptual quality. https://t.…"
+,,,,,,"RT @googledevs: Start exploring A.I. by playing with pictures, drawings, music, code, and more at https://t.co/momcjKF3Hm #aiexperiments ht…"
+,,,,,,"Happy birthday, Carl Sagan."
+,,,,,,"RT @soumithchintala: crazy engineering is what this is! Real-time video style transfer on mobile. Shipping to millions of devices.
+https://…"
+,,,,,,"RT @hardmaru: Neural Architecture Search with Reinforcement Learning, RNNs now generate RNN architectures! #GoogleBrain #ICLR2017 https://t…"
+,,,,,,"RT @DeepMindAI: We're collaborating with @Blizzard_Ent to open up StarCraft II as an AI research environment for the global community in Q1…"
+,,,,,,"Political forces and the social desire to maintain status quo cannot be underestimated. https://t.co/lFCiHGEYGM"
+,,,,,,"@erikrtn Thanks! And please do."
+,,,,,,"RT @fchollet: Introducing the Artificial Intelligence Open Network: a 100% open-source AI research community. https://t.co/i6G27YUgsF"
+,,,,,,"RT @genekogan: in-browser webcam classification demo using @transcranial’s superb keras.js https://t.co/LvHdR6u0r4 (warning: 100MB, Chrome…"
+,,,,,,"@genekogan this is awesome! would be a great addition :)"
+,,,,,,"@fchollet Run trained Keras models in the browser: https://t.co/8urIlCFnB0"
+,,,,,,"RT @WIRED: How will A.I. Shape our world over the next 50 years? President Obama, Joi Ito, and WIRED's Scott Dadich discuss: https://t.co/7…"
+,,,,,,"RT @fchollet: New paper: ""Deep learning with separable convolutions"". https://t.co/D876HseFDo - exploring what's next in convnet design aft…"
+,,,,,,"RT @fchollet: Google releases the Open Images dataset, a strong alternative to ImageNet --larger-scale, with a better class set: https://t.…"
+,,,,,,"RT @EM_Magazine: .@ISO50 Tycho Speaks on the Surprise Release of 'Epoch' Album https://t.co/1CpJOwDrRV https://t.co/v1zrRqGg3Q"
+,,,,,,"RT @hardmaru: My paper on [1609.09106] HyperNetworks is out. I wrote a new blog post about it, and released the HyperLSTM code. https://t.c…"
+,,,,,,"RT @karpathy: Google Research releasing YouTube-8M: large and diverse labeled video dataset https://t.co/agXqobX87C +1.5TB of inception-v3…"
+,,,,,,"RT @harvardnlp: New paper on neural image-to-markup generation https://t.co/sb3RDmfjoh https://t.co/tOWpvjeTso https://t.co/AmG1j0oEfa"
+,,,,,,"RT @alexjc: Photo-Realistic Super-Resolution Using a Generative Adversarial Network https://t.co/MwKde7Y8sA (Thoughts below.) https://t.co/…"
+,,,,,,"RT @ISO50: Listen to our just released single Epoch now https://t.co/UxMzwbwmcz"
+,,,,,,"RT @karpathy: +1 for visual languages for Neural Net architectures https://t.co/VzsHaf0wPu We'll have tools to create/edit nets like in chi…"
+,,,,,,"RT @soumithchintala: Visual manipulation of shoes and handbags with simple snapchat-like sketching, using GANs from Berkeley. Super cool.
+h…"
+,,,,,,"RT @soumithchintala: Energy-based Generative Adversarial Network. Recasting GANs to an energy-based framework by Zhao, Mathieu &amp; @ylecun ht…"
+,,,,,,"RT @OriolVinyalsML: We just open sourced the SOTA single model (~30 PPL) trained on lm_1b. Paper: https://t.co/ZMChPh2t1r Code: https://t.c…"
+,,,,,,"RT @Udibr: Character-Level Neural Machine Translation and NLP DL code/doc from Cho Lab at NYU CS https://t.co/lq56f71FBE"
+,,,,,,"RT @DeepMindAI: Excited to share our latest research on speech and music generation! Hear our #WaveNets speak for themselves: https://t.co/…"
+,,,,,,"RT @YvesMulkers: Word Embeddings for Historical Text https://t.co/forjihrgih https://t.co/GKOMABO0Y6"
+,,,,,,"RT @DeepMindAI: New blog post up, explaining our paper Decoupling Neural Networks Using Synthetic Gradients! https://t.co/b9CsmHyRpN https:…"
+,,,,,,"RT @alexjc: Full Resolution Image Compression with RNN https://t.co/JOaC6HcjsD Google gets serious, outperforms JPGs everywhere. https://t.…"
+,,,,,,"RT @alexjc: Factorized Convolutional Neural Networks https://t.co/RCicRmdL3V New layer representation, reduces compute by 3.5x. https://t.c…"
+,,,,,,"RT @lantiga: We just released the current best performing retinal vessel segmentation net https://t.co/YPl98dEN9R #deeplearning https://t.c…"
+,,,,,,"RT @NandoDF: Image Completion with Deep Learning in TensorFlow - Thank you, Brandon Amos! https://t.co/XHsB8d0RZh"
+,,,,,,"RT @ronnyk: Proving once again that temporary code always makes it to production. NASA's code to moon: https://t.co/LRtkiQXJcG https://t.co…"
+,,,,,,"@kastnerkyle @alexjc @ngutten Here's a cool example with face portraits: https://t.co/JOruMdYtGq"
+,,,,,,"RT @levie: Experts 5 years ago: ""Augmented reality will transform education, healthcare, construction, commerce...""
+
+Experts Today: ""Pokemo…"
+,,,,,,"RT @fchollet: A clear explanation of why orthogonal initializations are good for your deep nets, by @Smerity: https://t.co/8OWKDmJzpa"
+,,,,,,"RT @harvardnlp: LSTMVis: interactive vis for analyzing LSTM hidden states. https://t.co/ft8qG4rxB1 . Preloaded with nmt, lm, more. https://…"
+,,,,,,"RT @ch402: Style transfer without color -- https://t.co/MF7GdGJmVl https://t.co/7nWvHEn7WV"
+,,,,,,"RT @hugo_larochelle: Adversarially Learned Inference: https://t.co/tCLrcGk0jJ Neat extension of GANs that also learns a posterior over the…"
+,,,,,,"RT @fchollet: Voice interfaces are the skeuomorphism of intelligent apps. We haven't yet figured out the natural, native way to interact wi…"
+,,,,,,"RT @karpathy: New cool results on ConvNets vs Brain https://t.co/YoHBB9NZ5Z VGGNet accuracy grows monotonically but correlation to human pe…"
+,,,,,,"RT @MIT: Arrrr…  Actor Matt Damon was awarded an honorary MIT Pirate Certificate at @mitcommencement! #MIT2016 https://t.co/THejlFxWdD"
+,,,,,,"RT @mikelove: I worry about over-interpreting t-SNE plots. Here is its behavior on 1 dimensional data https://t.co/N6F4j8nSh7 https://t.co/…"
+,,,,,,"RT @techreview: Deep learning lets you search Pinterest using images rather than words - https://t.co/1STI2ey6GD #EmTechDigital https://t.c…"
+,,,,,,"RT @rsalakhu: Encode, Review, and Decode: Reviewer Module for Caption Generation 
+with Z. Yang, Y. Yuan, Y. Wu, W. Cohen 
+https://t.co/DWde…"
+,,,,,,"RT @soumithchintala: ""Discovering Causal Signals in Images"". Given an image, can you tell which objects cause others? Our new paper. wdyt?h…"
+,,,,,,"RT @soumithchintala: Residual Networks are Exponential Ensembles of Relatively Shallow Networks. Interesting...: https://t.co/c0cCwKqlaG ht…"
+,,,,,,"RT @faroit: Looks like the Google Brain team will introduce a tensorflow based lib for DNN music creation soon https://t.co/5Vfawh9k2B #mag…"
+,,,,,,"RT @samim: https://t.co/1qxuU08oQx"
+,,,,,,"RT @emilyjessturner: X-ray plates reused as records in Soviet Russia, as it was illegal to import Western vinyls! https://t.co/e7EyCATgMb h…"
+,,,,,,"RT @SpaceX: Landing from the chase plane https://t.co/2Q5qCaPq9P"
+,,,,,,"RT @karpathy: That's odd. ResNets and papers like this https://t.co/abUPKIGEHw (stochastic depth!) challenge the conventional view of how C…"
+,,,,,,"RT @chrisemoody: Not only does batch normalization work with LSTMs, it works dramatically better! I need to implement immediately! https://…"
+,,,,,,"RT @evolvingstuff: Semantic Object Parsing with Graph LSTM
+https://t.co/MmkpOyuMFS https://t.co/gAkHYbP56t"
+,,,,,,"RT @dribnet: move over DRAW: deepmind's latest has spatial-transform attention and 1-shot generalization. https://t.co/uho6sVWFEC https://t…"
+,,,,,,"@samim @FogleBird thanks :) that Bell Labs video was totally my inspiration!"
+,,,,,,"RT @samim: https://t.co/kp8FQLw05q"
+,,,,,,"RT @samim: New Experiment: #CreativeAI - On the Democratisation &amp; Escalation of Creativity: https://t.co/60owmYN75i https://t.co/Y7SFRdU2UJ"
+,,,,,,"RT @verge: Hayao Miyazaki art show features stunning illustrations of Studio Ghibli classics https://t.co/UDeNDDiMbV https://t.co/aqbT4HRF3m"
+,,,,,,"RT @alexjc: Left: me trying to paint a new Renoir piece late at night. Right: semantic style transfer fixing it up for me! https://t.co/T3q…"
+,,,,,,"RT @Smerity: Interested in attention mechanisms for QA?
+Check out my work with C Xiong &amp; @RichardSocher!
+https://t.co/n2Y9EPztF0 https://t.…"
+,,,,,,"RT @quasimondo: .@kcimc More interesting to the creator I guess. The audience still cares mostly about the output. https://t.co/NFN0acEBtQ"
+,,,,,,"RT @_Helios: The organ on Interstellar. What a fantastic score. https://t.co/NVvQF2ydyS"
+,,,,,,"RT @__SHIGETO: ""The purpose of your trip sir?""
+
+""Work""
+
+""What kind if work sir?""
+
+""Music""
+
+""That's not work sir"""
+,,,,,,"RT @GaryMarcus: Challenges+data = must read for anyone who cares about #AI and #ML:  #VisualGenome. Bravo @drfeifei &amp; co!   https://t.co/ca…"
+,,,,,,"RT @jtoy: “How to Code and Understand DeepMind's Neural Stack Machine” https://t.co/JjsSkptKMa https://t.co/QTU3IMZG6r"
+,,,,,,"RT @mrry: I got up early this morning to push Distributed TensorFlow to GitHub: https://t.co/3g4yDDr6PK"
+,,,,,,"RT @TristanDeleu: With @snips, we published our Neural Turing Machine library in Lasagne https://t.co/fLeHNnxrga"
+,,,,,,"RT @mustafasuleymn: So proud to announce the launch of DeepMind Health – working with nurses &amp; doctors to transform patient care. https://t…"
+,,,,,,"RT @edersantana: Information Theoretic Learning Autoencoders gets you swiss-rolls w/o an extra adversarial net. w/ @mattsqerror https://t.c…"
+,,,,,,"@nrchtct thanks! Do you mean the layout of the webpage or the layout of the embeddings? Might be square due to your window resolution."
+,,,,,,"RT @alexjc: New paper! Combining Markov Random Fields (MRF) with CNN for Style Transfer https://t.co/sElUWbN3Gx #ml #dnn #ai https://t.co/v…"
+,,,,,,"RT @quantombone: New blog post: Why SLAM Matters, The Future of Real-Time SLAM, and Deep Learning vs SLAM https://t.co/aNhVRbww2C https://t…"
+,,,,,,"RT @YhatHQ: ML humor... https://t.co/3d59U3Atp4"
+,,,,,,"RT @denormalize: Ready Play One features a character named Ogden from Oregon and in Dec '12 releases a 3D game w/ James Halliday https://t.…"
+,,,,,,"RT @QuantaMagazine: Another physicist thinks the origin &amp; evolution of life can be explained by thermodynamics: https://t.co/uqYD8Lk9qi htt…"
+,,,,,,"RT @NautilusMag: Twitter of 1588? The ""book wheel,"" which allowed readers to flit between texts with a spin. https://t.co/KpPJlvHbCN https:…"
+,,,,,,"RT @bxchen: My virtual life at CES: https://t.co/LdHMe4SKeW"
+,,,,,,"RT @fastml_extra: Colorizing black and white photos with deep learning:
+https://t.co/IVMHy0MnZr
+
+Reddit:
+https://t.co/A7UEixjdXr"
+,,,,,,"RT @fastml_extra: Statistical Learning with Sparsity - a whole book on lasso, by Hastie, Tibshirani and Wainwright (PDF):
+https://t.co/QP32…"
+,,,,,,"RT @BTBreakingnews: .@Nvidia introduces #AI for self-driving cars, partners with @Volvo https://t.co/E7XZusbe9m https://t.co/Frnfi5lDPa"
+,,,,,,"RT @billdetwiler: Drivenet running on NVIDIA GeForce GTX TITAN X doing detection at 50 FPS #CES2016 #CNETatCES https://t.co/FbxLbjv7oP http…"
+,,,,,,"RT @Raspberry_Pi: New post: DIY Pancreas, an extraordinary project from @danaMLewis and @scottliebrand. 
+https://t.co/3Ju7wa7MMl https://t.…"
+,,,,,,"RT @kcimc: this has to be the sexiest k-means clustering visualization i've ever seen https://t.co/ATINRq9WIY via @rhizomatiks @_mayfa"
+,,,,,,"RT @ryuichisakamoto: The Revenant soundtrack digital release is now available.
+https://t.co/i4QznaCMLq 
+#skmtnews"
+,,,,,,"RT @xkcdComic: Fixion https://t.co/KjGD6XnSSL https://t.co/O8ZJZVqYt3 https://t.co/zyWUN6fFav"
+,,,,,,"RT @elonmusk: 11 satellites deployed to target orbit and Falcon has landed back at Cape Canaveral. Headed to LZ-1. Welcome back, baby!"
+,,,,,,"RT @PlanetaryRsrcs: Congrats @SpaceX for sticking the landing!!!"
+,,,,,,"RT @PeterDiamandis: Phenomenal success @SpaceX. Falcon-9 1st stage lands back in Florida. Something the 'traditional' industry said was imp…"
+,,,,,,"RT @SpaceX: https://t.co/jvFpcgVKY0"
+,,,,,,"RT @QuantaMagazine: When are two networks that look different really the same? A new algorithm can tell: https://t.co/AosO1LvFVJ https://t.…"
+,,,,,,"RT @elonmusk: Launch &amp; landing can be seen on the https://t.co/bDd3GxQXMC webcast or in person from Cape Canaveral public causeway at 8:33p…"
+,,,,,,"RT @genekogan: From Pixels to Paragraphs
+How artistic experiments with deep learning guard us from hype
+https://t.co/ovntGynlCp"
+,,,,,,"RT @ch402: A lovely collection of videos on computer-assisted drawing: https://t.co/Yjj2ljey4S"
+,,,,,,"RT @mpopv: A team of VR programmers must debug scoping errors in a series of nested callback functions. #ExplainAFilmPlotBadly https://t.co…"
+,,,,,,"RT @AndrewYNg: Speech Recognition improving w/Deep Learning. New application opportunities ahead! @willknight https://t.co/Bdtw1sRiT7"
+,,,,,,"RT @patrickc: Man, the HN criticism: https://t.co/pLrWH2EuN5. Not exactly sure what it takes to impress the internet these days."
+,,,,,,"RT @TheNextWeb: MIT's new deep learning tool aims to predicts the memorability of your photos https://t.co/JyTrYDu9x8 https://t.co/a9XDEsmh…"
+,,,,,,"RT @techreview: Kindergarten for Computers:
+Can This Man Get AI to Learn from Children?
+https://t.co/gw3sDAoCpG https://t.co/2A2V7hzfiQ"

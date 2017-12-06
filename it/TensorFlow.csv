@@ -1,0 +1,230 @@
+﻿NAME,FOLLOWER,LIKE,DESCRIPTION,"TOTAL RETWEET",TOTAL_LIKE,TWEET
+TensorFlow,50699,125,"TensorFlow is a fast, flexible, and scalable open-source machine learning library for research and production.",21090,25464,"RT @martin_gorner: Got 3 more hours ? The ""Tensorflow without a PhD"" series continues. First a deep dive into modern convolutional architec…"
+,,,,,,"Thanks @Mozilla for sharing Project DeepSpeech! Open source speech recognition, with pre-trained model &amp; dataset:… https://t.co/XWMoVlwFkj"
+,,,,,,"Ever wonder what ""dropout regularization"" really means? 🤔 This and ~200 other #ML definitions at your fingertips in… https://t.co/kXWpxF0nnE"
+,,,,,,"Check out the 2nd part of our blog series on #TensorFlow Estimators. 
+
+This one describes feature columns in detail… https://t.co/ItB5vIM3cE"
+,,,,,,"Reproducible research using colab! The new paper → https://t.co/u5a4tpNNZ5 from the Magenta team, also includes a c… https://t.co/p7wGhnBJI7"
+,,,,,,"Batch norm tips from @martin_gorner: https://t.co/NWcvADy0dv"
+,,,,,,"We've just launched the @TensorFlow Speech Recognition Challenge on Kaggle!  $25,000 in prizes, including a special… https://t.co/MGUl6WjEW9"
+,,,,,,"We are so excited to announce the Developer Preview of #TensorFlowLite! 
+
+Read all about it in our blogpost →… https://t.co/RcyEu6EWb7"
+,,,,,,"#TensorFlow v1.4.0 included a few big announcements, including graduating #Keras to core! 
+
+Blog w/ more details → https://t.co/6vQYHn07QS"
+,,,,,,"#TensorFlow implementation of NASNet (a model for image classification and object detection) learned by AutoML! 
+
+→… https://t.co/56Kl9p23oU"
+,,,,,,"RT @googleresearch: Check out the latest innovations in TensorFlow Serving, a flexible, high-performance serving system for ML models https…"
+,,,,,,"#TensorFlow v1.4.0 has been released! Please see the full release notes for details on added features and changes  ↓
+https://t.co/5GcrQLu3AZ"
+,,,,,,"Real-time Style Transfer for Arbitrary Styles in #TensorFlow! 
+
+Visit the Magenta GitHub for more info →… https://t.co/tCoeZwb4xK"
+,,,,,,"Introducing Eager Execution - an imperative, define-by-run interface for #TensorFlow! 
+
+Learn more here →… https://t.co/yiDVMILYFo"
+,,,,,,"Doing 💡 cool things ⚙️ with #TensorFlow? Let us know and you could be highlighted in a TensorFlow case study! 
+
+✏️ → https://t.co/1Z8qfXUpLA"
+,,,,,,"Check out this intro to #TensorFlow Feature Columns, in #MachineLearning Recipes #9 w/ @random_forests
+
+Watch here… https://t.co/1SRAOf6ZFq"
+,,,,,,"RT @JM_SAP: And here it is: our new @openSAP free online course on enterprise #deeplearning with #TensorFlow, starting on Oct 23 https://t.…"
+,,,,,,"Thanks to @Uber for open-sourcing Horovod! A library to speed-up distributed training with #TensorFlow 
+
+Learn here… https://t.co/5OEm4PfpSd"
+,,,,,,"RT @datitran: Want to build your own #Raccoon detector. I'll show you how to do it with #TensorFlow: https://t.co/dGksy391G0 https://t.co/b…"
+,,,,,,"Here's a nice slidedeck (w/ speaker notes) introducing the Dataset API - better input pipelines for #TensorFlow 
+
+→… https://t.co/yPfBktbI3B"
+,,,,,,"Can't wait until an official release to try new features? Try our tf-nightly and tf-nightly-gpu pip packages! 
+
+↓ https://t.co/xpaRajRKnT"
+,,,,,,"TensorFlow 1.4.0-rc0 has been released! See the full release notes for details on added features and changes
+
+→ https://t.co/X4ZILFjrWo"
+,,,,,,"Announcing #TensorFlow Lattice - Estimators that let you specify monotonic relationships to help models generalize… https://t.co/XnbDND6hzF"
+,,,,,,"RT @Google: Powered by @tensorflow, an open source machine learning library, Tanzanian farmers can now spot sick crops with AI. https://t.c…"
+,,,,,,"Question Answering with #TensorFlow → https://t.co/GUQB3sgDSe https://t.co/4Ft2FwFwZr"
+,,,,,,"Listen &amp; control a 🎹  piano performance in your browser with Performance RNN and deeplearn.js 🤔
+
+→… https://t.co/hW5KoqZ8hA"
+,,,,,,"Interested in collaborating with #AI scientists for the #Google AI Residency Program? 
+
+Apply to join us here →… https://t.co/IGzQw1iExn"
+,,,,,,"#AI powered by #TensorFlow coming to the #UnrealEngine! 
+
+Get the Unreal Engine plugin here →… https://t.co/VEIH9Pvg9o"
+,,,,,,"On ep 5 of AI Adventures, @YufengG shows how to visualize and debug your #MachineLearning model w/ #TensorBoard 
+
+→… https://t.co/wKcKRXpP5U"
+,,,,,,"Check out how @CocaCola is using #AI and #TensorFlow in their rewards program for frictionless proof-of-purchase!… https://t.co/66Aqg95Qtb"
+,,,,,,"Create custom #machinelearning visualizations with #TensorBoard's new API
+
+→ https://t.co/jADddxyH7Q https://t.co/dWO1NHZiE1"
+,,,,,,"RT @googledevs: In #TensorFlow 1.3 we introduce Datasets and Estimators to help create #ML models and feed data to them
+
+Learn more: https:…"
+,,,,,,"RT @martin_wicke: Check out the amazingly complete R bindings for #TensorFlow by @Rstudio! https://t.co/z77vwn7KkL"
+,,,,,,"TensorFlow now supports SVMs and kernel methods! 
+
+Check out our tutorial → https://t.co/KaQ7G74OEo https://t.co/6LEkWz0wy2"
+,,,,,,"Recognize audio and simple voice commands with this new #TensorFlow tutorial! 
+
+Try it out here:… https://t.co/cUAERUfkz3"
+,,,,,,"#TensorFlow now supports #Kaldi for more powerful speech recognition solutions 
+
+Learn more here:… https://t.co/yHo3SIhT2p"
+,,,,,,"RT @josephreisinger: How is the rise of machine learning and #AI systems changing software engineering? https://t.co/5PsfD0ntcR #TensorFlow"
+,,,,,,"TensorFlow 1.3.0 has been released! Please see the full release notes for details on added features and changes: 
+
+https://t.co/2EfTbCB5Db"
+,,,,,,"RT @TerryTangYuan: Check out our TensorFlow Estimators paper at #kdd2017! https://t.co/wniFCD8lTF #DataScience #TensorFlow #MachineLearning…"
+,,,,,,"Check out this #TensorBoard plugin by @chrisdotio to see a video of your neural network: 
+
+https://t.co/JcEzncV6FR
+
+https://t.co/CXHbu48PBI"
+,,,,,,"RT @petewarden: I have a free 60-page O'Reilly ebook out called ""Building Mobile Applications with @TensorFlow""! https://t.co/Pc9hMX2F8j"
+,,,,,,"With #TensorFlow Serving 1.0 you can apt-get install tensorflow-model-server
+
+Learn more here: https://t.co/ow6PYXS6Sn"
+,,,,,,"#TensorFlow 1.3.0rc2 has been released! See the full release notes for details on the added features and changes:
+ 
+https://t.co/tzhWqF8eqI"
+,,,,,,"RT @random_forests: Nice article on reinforcement learning in TensorFlow: https://t.co/zNcTqM8Qmz"
+,,,,,,"TensorFlow 1.3.0rc1 has been released! Please check the release notes for details on new features and changes! 
+
+https://t.co/ynTF37dQVp"
+,,,,,,"RT @harvitronix: New blog post! Creating an insanely fast image classifier with MobileNets in #TensorFlow: https://t.co/oCawoRHBMe"
+,,,,,,"A nice video tutorial ""Sentiment Analysis with LSTMs, using TensorFlow"": 
+https://t.co/QSFhoi77eX
+
+#TensorFlow https://t.co/W37fvEofO5"
+,,,,,,"#TensorFlow 1.3.0rc0 has been released! Please see the release notes for details on added features and changes: 
+https://t.co/8iye5R4JOH"
+,,,,,,"It's here! Check out our new #TensorFlow Neural Machine Translation Tutorial: https://t.co/iXmGsPPaM0"
+,,,,,,"Want to know how the @siliconHBO Not Hotdog app was built with #TensorFlow? 
+
+Check it out: https://t.co/FrpXucTHnC"
+,,,,,,"RT @googleresearch: Announcing the Tensor2Tensor open-source system for training a wide variety of deep learning models in #TensorFlow http…"
+,,,,,,"TensorFlow 1.2.0 has been released! Please see the full release notes for details on added features and changes: https://t.co/dfgVs1bUO6"
+,,,,,,"RT @googleresearch: Our in-house object detection system is now open source! Learn more about the #TensorFlow Object Detection API at https…"
+,,,,,,"RT @MagnusHyttsten: Having a great time presenting #TensorFlow at the GDG Silicon Valley meetup @gdgsv 🙌 https://t.co/nSKuV8lGVL"
+,,,,,,"Here's a nice video tutorial ""Generative Adversarial Networks, for Beginners"": https://t.co/r0md0znE4N https://t.co/oJ5awqHEUd"
+,,,,,,"RT @goodfellow_ian: CleverHans has a new home in the TensorFlow organization: https://t.co/Co7dIU7EDH"
+,,,,,,"TensorFlow 1.2.0rc1 has been released! Please see the full release notes for details on added features and changes: https://t.co/mMNbeXq3Ld"
+,,,,,,"Curious how TensorFlow can be used for art &amp; music? Watch this Google I/O talk on Project Magenta from Google Brain: https://t.co/zHN0g2DWJL"
+,,,,,,"RT @ryanseddon: How Zendesk Serves Tensorflow Models in Production – https://t.co/34iRuZOnd7"
+,,,,,,"Check out this #io17 session for tips and tricks on using TensorFlow in your Android app: https://t.co/hhMCqa6P8Y"
+,,,,,,"Learn how to code papers with TF training @UAI2017 @ICML https://t.co/fbxQDRJt71 @ismion_mltrain. Pilot event in NYC https://t.co/3PMppKPP50"
+,,,,,,"Learn how to bring your ML models from R&amp;D ➡️ Production with #TensorFlow Serving in this #io17 talk:… https://t.co/TXCD9NzLc5"
+,,,,,,"We asked @MagnusHyttsten to give us a demo in the TensorFlow sandbox during #io17 https://t.co/TME1bV23zK"
+,,,,,,"RT @mrry: TensorFlow 1.2rc0 is now out with the https://t.co/AiVuFYy0tW module for simpler and more powerful input pipelines! https://t.co/…"
+,,,,,,"Machine Learning fireside chat happening live at #io17: https://t.co/LVVl88Tv5N"
+,,,,,,"You don't have to start from scratch to benefit from ML. Learn about open source models for images, text, and art:… https://t.co/yu3CFN9jRH"
+,,,,,,"What's new in TensorFlow? What are TPUs? What's the TensorFlow Research Cloud? This #io17 session has the answers:… https://t.co/HEcfpf963y"
+,,,,,,"Not an expert in machine learning? TensorFlow has you covered. Check out this talk from #io17:… https://t.co/KM0onu8mZC"
+,,,,,,"The energy of #io17 has our team and developers workshopping the next big thing with #TensorFlow https://t.co/ymAVgIb1q7"
+,,,,,,"Tune in for the #io17 Developer Keynote for more TensorFlow information, starting 1 PM (PDT) https://t.co/AhkjyXp4aH"
+,,,,,,"Introducing the TensorFlow Research Cloud: 1,000 Cloud TPUs to support open machine learning research.… https://t.co/teN1vpC9Gj"
+,,,,,,"At #io17? Come to office hours today at 6pm with the Brain team: https://t.co/zOEattdWdo"
+,,,,,,"We open-sourced TensorFlow so developers like Jian-Yang can change the world. @siliconHBO #nothotdog #siliconvalley https://t.co/JDiz7Nf7EH"
+,,,,,,"Check out this blogpost to learn how Google's 1st-gen TPU works: https://t.co/MgOsqAz1vs"
+,,,,,,"RT @martin_wicke: You all may be interested in this performance tip for convolutional models in @TensorFlow: https://t.co/f12jBqosR7"
+,,,,,,"Ask your questions to the TensorFlow team in a fireside chat at @oscon this week! #OSCON2017 https://t.co/Xdmgf7i4Xh"
+,,,,,,"How the TensorFlow team handles open source support: https://t.co/cmpOJBQ0aF"
+,,,,,,"We just published @TensorFlow benchmarks and a new high-performance guide to https://t.co/8tUuHupZG9 - have a look!"
+,,,,,,"Going to @oscon? Swing by @TensorFlow Day on May 10th for discussions, presentations, and hands-on time: https://t.co/afJeKjh5wD"
+,,,,,,"TensorFlow v1.1.0 has been released! Please see the full release notes for details on added features and changes: https://t.co/QVRQjsvhFR"
+,,,,,,"#TensorFlow now supports RDMA based distributed training on Infiniband networks. Thanks to @Yahoo for contributing #TensorFlowOnSpark"
+,,,,,,"RT @martin_wicke: TensorFlow on YARN. Nice work.  https://t.co/qulB2yhKH5"
+,,,,,,"Join @IBM's webinar on Deep Learning at Scale, Apr 18th, 11am PST, @martin_wicke speaking on distributed #TensorFlow https://t.co/5H7iH88X3w"
+,,,,,,"TensorFlow 1.1.0-rc2 has been released! Please see the full release notes for details on added features and changes: https://t.co/QVRQjsvhFR"
+,,,,,,"RT @hardmaru: A Neural Representation of Sketch Drawings. My work on generative vector image modelling with recurrent neural nets. https://…"
+,,,,,,"RT @googleresearch: Introducing an open source seq2seq framework in #TensorFlow that makes it easy to experiment with seq2seq models - http…"
+,,,,,,"RT @DeepMindAI: Excited to release #Sonnet - a library for constructing complex Neural Network models in TensorFlow. Get started: https://t…"
+,,,,,,"Happy to announce NSynth, a neural music synthesizer - along with our code, model, and a huge dataset of notes!… https://t.co/7pKwR71HIc"
+,,,,,,"#TensorFlow 1.1.0-rc1 has been released! Please see the full release notes for details: https://t.co/yKzqUasPOQ"
+,,,,,,"Now in Maven Central... #TensorFlow's Java APIs! https://t.co/fcAXdnPwof https://t.co/WfxbnyXSPU"
+,,,,,,"RT @distillpub: Why Momentum Really Works -- A new Distill article by @gabeeegoooh https://t.co/47DD7fzFwA https://t.co/5q2iZyFhvR"
+,,,,,,"Having trouble writing captions for your photos? #TensorFlow can help with that too: https://t.co/oxMhZutidS"
+,,,,,,"RT @googleresearch: Explore AudioSet, an ontology of over 600 sound classes and a collection of over 2 million YouTube sound clips - https:…"
+,,,,,,"Thank you @colinprepscius! This is really important to us. We're doing our best, and always trying to improve further."
+,,,,,,"RT @googledevs: Speed is everything for effective ML. That's why we developed XLA, a compiler for @TensorFlow! Read more https://t.co/Yc4GI…"
+,,,,,,"RT @random_forests: New @TensorFlow course from Stanford by @chipro, with slides and code! https://t.co/hLqHCc8dlF"
+,,,,,,"RT @googleresearch: Researchers are investigating how deep learning can complement pathologists' workflow. Learn more at https://t.co/5X5Wo…"
+,,,,,,"Thank you, @mrry! https://t.co/0SGsy2qXzo"
+,,,,,,"RT @JigsawTeam: Introducing Perspective, using machine learning to improve discussions online. https://t.co/XsZS0F5q9I https://t.co/1AXBYcK…"
+,,,,,,"Welcome to @WomenTechmakers, @MissAmaraKay! Glad we could help foster the connection."
+,,,,,,"RT @Theteamatx: Machine learning powered software means that #ProjectLoon can now send small teams of balloon to where people need service…"
+,,,,,,"RT @christophrhesse: Image-to-Image Tensorflow Demo https://t.co/KUdUPA1IXx https://t.co/1QQPyGlo1F"
+,,,,,,"RT @rasbt: Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters https://t.co/KDJpPxgbx8"
+,,,,,,"Thank you for attending, @Brok_Bucholtz. We have a fantastic community and are looking forward to our next summit. https://t.co/cCSoQb3oNo"
+,,,,,,"Now you can debug your @TensorFlow graphs with #TensorFlow Debugger (tfdbg)! https://t.co/Hv1UOqYjAD https://t.co/N6KvyOst0a"
+,,,,,,"We're thrilled to see the global adoption &amp; pace of #machinelearning development with @TensorFlow. Watch: https://t.co/FGqSbvEvNw"
+,,,,,,"Thanks for asking, @mattstannard. The #TFDevSummit presentation playlist is available here: https://t.co/NcEC0uD56Z"
+,,,,,,"Here’s the complete #TFDevSummit playlist for those who want to rewatch a talk, or if you missed the livestream. https://t.co/NcEC0uD56Z"
+,,,,,,"Thanks to #TFDevSummit speakers &amp; attendees for a great inaugural event discussing #MachineLearning. What will you build on #TensorFlow 1.0?"
+,,,,,,"RT @dalmaer: Skin cancer image classification. This type of work gives me so many feels. https://t.co/yeQEK0sWGY #TFdevsummit"
+,,,,,,"Diabetic retinopathy is the fastest growing cause of blindness. Learn from Lily Peng how @TensorFlow can help… https://t.co/29msZpdij6"
+,,,,,,"RT @random_forests: Recommended - Magenta’s Style Transfer code - https://t.co/zV5LOHkbYP. Works out-of-the-box w/ their Docker image - htt…"
+,,,,,,"Magenta uses @TensorFlow to generate music &amp; art. Join @douglas_eck to see &amp; hear ML inspired models:… https://t.co/5DdtbpkXz8"
+,,,,,,"Yum! 😋 https://t.co/PMjQFwqz6z"
+,,,,,,".@TensorFlow Wide and Deep combines power of memorization + generalization. Join Heng-Tze Cheng to learn about it -… https://t.co/Xxtuyv5w26"
+,,,,,,"Next up: Sequence Models and @TensowFlow's RNN API! Join Eugene Brevdo's talk on flexibility and high-performance… https://t.co/Zc8fBR8pTM"
+,,,,,,"Great question @codekee! Videos from #TFDevSummit presentations are available on @googledevs #YouTube channel - https://t.co/7YZcVCrcbI"
+,,,,,,"Join @_agarwal_ashish to learn about a new @TensorFlow toolkit of popular #MachineLearning algorithms… https://t.co/PQs2w8VNHQ"
+,,,,,,"#TensorFlow Serving is a flexible, high-performance ML serving system for production. Join Noah Fiedel to learn mor… https://t.co/2K57McVgUo"
+,,,,,,"Thanks for checking out the #TFDevSummit livestream, @codekee! https://t.co/y4BapdpUs1"
+,,,,,,"How can you make @TensorFlow work with your IT environment? Jonathan Hseu describes how https://t.co/y4BapdpUs1"
+,,,,,,"RT @bsaeta: Had a great time @Stanford #TFdevsummit live stream event. Thanks everyone for the great questions!! https://t.co/vkKlaT8RYa"
+,,,,,,"Distributed @TensorFlow gives you the flexibility to scale up to hundreds of GPUs. Join @mrry to learn all about it… https://t.co/Yu3vFW4P1Y"
+,,,,,,"Did you know that #TensorFlow models can be deployed on iOS, Android, and even @Raspberry_Pi? @petewarden shows how… https://t.co/6r4uksv5zt"
+,,,,,,"RT @googledevs: Joining the #MachineLearning conversation with @tensorflow at #TFDevSummit! https://t.co/lHmo11ui4F"
+,,,,,,"Join Brett Kuprel at #TFDevSummit to learn how @Stanford uses @TensorFlow to classify skin cancer images… https://t.co/eitYG6F5DP"
+,,,,,,"Happy to have your attention, @Sestri4kina. Let us know what #TFDevSummit topic piques your curiosity most."
+,,,,,,"You're correct, @_FerreiraFabio - Math ops is currently unavailable. Try this instead: https://t.co/WocqZeHZiY"
+,,,,,,"And we're back! Join Daniel Visentin from #TFDevSummit as he gives examples of how @deepmindai uses @TensorFlow… https://t.co/CxpeHehpSH"
+,,,,,,"Thanks for the heads up, @TheWideem. We're looking into this now! #TFDevSummit"
+,,,,,,"Enjoy the break! Grab an @equatorcoffees from the truck just outside of the registration area."
+,,,,,,"Agreed, @sundarpichai! 🙌"
+,,,,,,"RT @sundarpichai: Can't wait to see what developers around the world will build w/ @TensorFlow. Thx for tuning in, Lagos! #TFDevSummit http…"
+,,,,,,"#TensorFlow 1.0 announced at first annual #TFDevSummit. Learn more: https://t.co/AgoKWfB6Ge https://t.co/BmyeiV3SSl"
+,,,,,,"Integrating Keras &amp; @TensorFlow! Join @fchollet now as he speaks about tf.keras and demos Video Q&amp;A at #TFDevSummit https://t.co/y4BapdpUs1"
+,,,,,,"RT @lifeatgoogle: At #TFDevSummit, Jeff Dean shares his excitement for the vibrant @tensorflow community around the world &amp; applications of…"
+,,,,,,"Thanks for tuning in, @FrazerKirkman. Glad to hear it! cc @Google"
+,,,,,,"RT @random_forests: Code and slides from Dandelion's excellent Hands-on TensorBoard talk https://t.co/TmrwlfvWm4"
+,,,,,,"You think differently than the face and body boys... you're a different breed. Do you Blue Steel, @petewarden?"
+,,,,,,"@WomenTechmakers Glad to have you!"
+,,,,,,"High-Level APIs: Models in a Box. Join @martin_wicke as he intros layers, estimators, and their roadmap for core -… https://t.co/9IPT92cUdc"
+,,,,,,"Thanks for discussing the many capabilities of #TensorBoard, Dandelion Mane. 🌼🦁 #TFDevSummit"
+,,,,,,"RT @WomenTechmakers: We're tuned in, are you? #TFdevsummit https://t.co/5qxR2QSOSj"
+,,,,,,"@mero11gh @googledevs Awesome!"
+,,,,,,"Join Dandelion Mane for a demo of all the amazing things you can do with TensorBoard at #TFDevSummit… https://t.co/V6vaqWKHH3"
+,,,,,,"RT @VPoltrack: Doodling along with the @tensorflow Dev Summit 🤖
+#TFdevsummit #doodling https://t.co/oEgqfpITTp"
+,,,,,,"We think so too, @NourozRahman. // @YouTube #TFDevSummit"
+,,,,,,"What are you building with #TensorFlow? Post your creations on the corkboard at #TFDevSummit, or tell us here. https://t.co/WbjDecnpCH"
+,,,,,,"Thanks for tuning in to the #TFDevSummit live stream! Let us know what your teams found most useful. @rjankie @gdgcloudnl @random_forests"
+,,,,,,"RT @gdgcloudnl: #TfDevSummit #Tensorflow dev summit is happening!!! Great number of people!! #gdg #gdgcloud https://t.co/tE3pwtrEKj"
+,,,,,,".@TensorFlow, compiled! Join Chris Leary and Todd Wang for a talk on ""XLA"", a JIT and AOT compiler for @TensorFlow https://t.co/y4BapdpUs1"
+,,,,,,".@tensorflow: #MachineLearning for Everyone. We're thrilled to see the community thriving around the world. https://t.co/Ewqy22VZEh"
+,,,,,,"RT @Leckan_M: #TFdevsummit viewing party Lagos, Nigeria. Super excited to learn more about Machine Learning with Tensor flow. https://t.co/…"
+,,,,,,"The #TFDevSummit keynote is starting now! Watch the live stream - https://t.co/y4BapdpUs1"
+,,,,,,"Five minutes until #TFDevSummit kickoff. Join the live stream: https://t.co/y4BapdpUs1"
+,,,,,,"The first @TensorFlow Dev Summit starts in 60 minutes! Make sure to catch the livestream - https://t.co/y4BapdpUs1 https://t.co/gUByq1mgpN"
+,,,,,,"RT @TerryTangYuan: Excited to announce our the first Chinese book on TensorFlow - TensorFlow in Practice https://t.co/UsXOcAWz2b @tensorflo…"
+,,,,,,"Would you like to watch the TensorFlow Dev Summit at a livestream event? Check the map for one near you https://t.co/Yhu6ToCGQx"
+,,,,,,"On 2/15, tune in to this livestream to catch all the talks from the TensorFlow Dev Summit, starting at 9:30am PST https://t.co/7hRjMh7d9H"
+,,,,,,"RT @wjarek: . @tensorflow Serving v0.5 is out https://t.co/AebS13Cp5M includes Model Server PredictionService API, new SavedModel format &amp;…"
+,,,,,,"TensorFlow 1.0.0-rc0 is available - with XLA, TF-DBG, new Android demos, Java API, Python 3 Docker images, and more: https://t.co/Dw5YynAEgL"
+,,,,,,"Happy to see this important work on classifying skin cancer with #TensorFlow. Check it out! https://t.co/tG8l4JMCGt https://t.co/nap2IFa8Gx"
+,,,,,,"Apply now to attend the 2017 #TensorFlow Dev Summit on Feb 15th in Mountain View, CA! https://t.co/uLKFo5rdhM #TFdevsummit"
+,,,,,,"RT @googleresearch: Check out a demo of the Embedding Projector, an open source data visualization tool, at #nips2016 and at https://t.co/h…"
+,,,,,,"Save the date for the very first #TensorFlow Dev Summit on Feb 15th, 2017! Visit https://t.co/el8vCWzvU4 to sign up and learn more."
+,,,,,,"TensorFlow r0.12 comes to Windows with full GPU support! #TensorFlow #Windows https://t.co/jE2Qv77UVf"
+,,,,,,"Celebrating TensorFlow's first year! Thanks to everyone who has contributed. Check out what's been accomplished - https://t.co/GqjEdoqW4Z"

@@ -1,0 +1,287 @@
+﻿NAME,FOLLOWER,LIKE,DESCRIPTION,"TOTAL RETWEET",TOTAL_LIKE,TWEET
+RemiCadene,146,215,"PhD student in #DeepLearning at @mlia_lip6 Graduated from @Master_DAC at University Pierre and Marie Curie @UPMC",10690,33,"RT @LudovicDenoyer: An update of our article ""Learning time/memory efficient deep architectures ..."" is now online. It show how alternative…"
+,,,,,,"RT @santoroAI: Hey @tyrell_turing &amp; @Franklandlab , check out this passage on memory/forgetting https://t.co/HPh7mBaTwu"
+,,,,,,"RT @soumithchintala: use gradient magnitude as a signal for gradient importance. 
+Sort your gradients, find a threshold, clip your gradient…"
+,,,,,,"RT @mlia_lip6: A nice work from @chenMkl  and @LudovicDenoyer  on multi-view GAN! https://t.co/yF0k4ZcLNg"
+,,,,,,"RT @mlia_lip6: Well done @EloiZablocki - Paper accepted at #AAAI2018!!!  ""Learning Multi-Modal Word Representation Grounded in Visual Conte…"
+,,,,,,"@karpathy @taehoonleeml The original tensorflow code is not easy to parse, so I used tensorboard to be able to writ… https://t.co/7yUGfRtOzT"
+,,,,,,"RT @jeremyphoward: Very handy reference to relative Imagenet performance of many recent architectures
+https://t.co/05IiapgtiC https://t.co/…"
+,,,,,,"RT @Freeelanceio: Devinette du soir ;)
+
+Inscrits toi à la bêta sur freelance.io
+
+#freelance #startup #frenchtech https://t.co/2X7s8KEo4L"
+,,,,,,"RT @_rockt: Our paper on End-to-end Differentiable Proving was accepted for oral presentation at NIPS! https://t.co/8Z3ABIBAnz https://t.co…"
+,,,,,,"RT @LudovicDenoyer: Collaboration with Guillaume Lample,  Neil Zeghidour,  Nicolas Usunier,  Antoine Bordes,  Ludovic Denoyer and  Marc'Aur…"
+,,,,,,"RT @hardmaru: Twin Networks: Using the Future as a Regularizer. Surprisingly neat and simple trick to regularize states of an RNN. https://…"
+,,,,,,"RT @syhw: A Brief Survey of Deep RL https://t.co/tDjGUaaG0Y by @KaiLashArul @Miles_Brundage et al."
+,,,,,,"RT @soumithchintala: weight-loss and running. Words associated with fitness and deep learning, apparently. The poor bot needs contextual em…"
+,,,,,,"is trying out the online LaTeX Editor ShareLaTeX https://t.co/3f9FVyANaE"
+,,,,,,"RT @PyTorch: PyTorch v0.2 is out: Higher order gradients, Distributed PyTorch, Broadcasting, Advanced Indexing, New Layers, more!
+https://t…"
+,,,,,,"RT @alxndrkalinin: #Caffe-based implementation of Spatial Regularization Network #CVPR2017 https://t.co/Z3QsrEtpy5 https://t.co/zcyWM5gOKb"
+,,,,,,"RT @stanfordnlp: CoreNLP tip: How to deal with (mostly) lowercase text. We added examples of 2 ways to do it: https://t.co/vRmvi2UkjH—https…"
+,,,,,,"RT @dennybritz: Three very different sources of bias in AI, and how to fix them https://t.co/nqnAjZRf6g"
+,,,,,,"RT @LaureSoulier: @EloiZablocki @bpiwowar https://t.co/qRfx4xKn2S"
+,,,,,,"RT @hardmaru: Dual Supervised Learning. Interesting paper explores dual tasks and jointly training two models, p(y|x) and p(x|y). https://t…"
+,,,,,,"RT @LaureSoulier: Call for Labs Proposal for #clef2018 in Avignon, France. Join us and help us to make a great conference! https://t.co/uRi…"
+,,,,,,"RT @LudovicDenoyer: Article ""Multi-view Generative Adversarial Networks"" (M. Chen,  L. Denoyer) has been accepted at ECML 2017 -- https://t…"
+,,,,,,"RT @LudovicDenoyer: ""A Meta-Learning Approach to One-Step Active Learning""   (G. Contardo,  L. Denoyer,  T. Artieres) now on arxiv : https:…"
+,,,,,,"RT @PyTorch: SentEval: evaluate the quality of sentence embeddings on a diverse set of ""transfer"" tasks: https://t.co/zxESqMDsIe https://t.…"
+,,,,,,"RT @PyTorch: Researcher @RitchieNg made a @PyTorch course suitable for anyone new to DL / want a solid grounding in DL theory https://t.co/…"
+,,,,,,"RT @nedd: - Yep, we just made an inter-dimensional portal with #ARkit 🌀
+cc @madewithARKit https://t.co/W5pNQBXZs3"
+,,,,,,"RT @mlia_lip6: ""Variational Thompson Sampling for Relational Recurrent Bandits"" accepted at ECML/PKDD2017 - by @SLamprier, T. Gisselbrecht,…"
+,,,,,,"RT @PyTorch: PyTorch implementation of YellowFin here: https://t.co/p6szepb7nK https://t.co/akiZSZB8qp"
+,,,,,,"RT @karpathy: Berkeley AI Research (BAIR) is launching a blog! https://t.co/fcJeIDPZXc 1st post from Jacob Andreas @jacobandreas on Neural…"
+,,,,,,"RT @JianZhangCS: Simple, automatic tuner for momentum SGD can outperform adaptive methods on ResNets and LSTMs. @HazyResearch https://t.co/…"
+,,,,,,"RT @mlia_lip6: Multi-view Generative Adversarial Networks  --- by @chenMkl &amp; @LudovicDenoyer accepted at ECML/PKDD 2017 @ECMLPKDD"
+,,,,,,"RT @hardmaru: One Model to Learn Them All. Single model classifies ImageNet, NMT, Image Captioning, Speech Recognition, Parsing. https://t.…"
+,,,,,,"RT @ogrisel: The twitter handles of the authors are: @LaBegne, @RemiCadene and @quobbe. https://t.co/YSFIRY7VT7"
+,,,,,,"RT @LaBegne: MUTAN: Multimodal Tucker Fusion for Visual Question Answering https://t.co/2vT0lpYskJ - our work with @RemiCadene @quobbe and…"
+,,,,,,"RT @ogrisel: PyTorch code for MUTAN: Multimodal Tucker Fusion for Visual Question Answering: https://t.co/bR0T1qgETb arxiv link: https://t.…"
+,,,,,,"VisualQA in Pytorch (with SOTA paper!)
+https://t.co/7yzxmZyTRi"
+,,,,,,"RT @karpathy: Training ImageNet in 1 hour with 256 GPUs, minibatches of 8192. From  Facebook's FAIR: https://t.co/R0BxFOFshe 1 hour... incr…"
+,,,,,,"RT @karpathy: New post on placing AlphaGo in context of AI research https://t.co/tI3VkUGYsT trying to mix in a pinch of low-level depth to…"
+,,,,,,"RT @echen: Exploring LSTMs: tutorial + discovery https://t.co/hnwxYfqoWu https://t.co/BweLJBicOj Finally moving my blog into modern times.…"
+,,,,,,"RT @deeplearningldn: Exploring LSTMs https://t.co/3qeddDvJ6S"
+,,,,,,"RT @syhw: TorchCraft v1.3-0 is here https://t.co/obo8ZiPekk C++, Python, Lua clients, for StarCraft control and state serialization. Thanks…"
+,,,,,,"RT @mlia_lip6: MLIA active in the UCA deep learning school -ANR Deep_in_France- with talks presented by @RemiCadene cc @quobbe https://t.co…"
+,,,,,,"RT @thetalperry: I just published “Convolutional Methods for Text” https://t.co/YUDjVQXRKh"
+,,,,,,"RT @karpathy: The energy expansions of evolution https://t.co/CJTAUoFavI lovely read. geo, sunlight, oxygen, flesh, fire all ""unlocked"" new…"
+,,,,,,"RT @jekbradbury: This is super cool and major 👏 to FAIR and Jason for open-sourcing it -- wraps @PyTorch and 20+ NLP/dialog datasets https:…"
+,,,,,,"RT @tensorflow: How the TensorFlow team handles open source support: https://t.co/cmpOJBQ0aF"
+,,,,,,"RT @sprobertson: A Practical @PyTorch interlude, Exploring Word Vectors with GloVe and torchtext: https://t.co/IXeSR9fUhi https://t.co/IxbH…"
+,,,,,,"RT @hardmaru: Seeing Theory - A Visual Introduction to Probability and Statistics https://t.co/4OcEGVTDJB https://t.co/ULJn303VId"
+,,,,,,"RT @slashML: Interesting rejected papers at ICLR17 https://t.co/J5uZ3Bescp"
+,,,,,,"RT @quobbe: https://t.co/ROl5NxQt2c"
+,,,,,,"RT @cvondrick: Unsupervised Learning by Predicting Noise by Bojanowski and Joulin. Cool yet simple idea that works quite well!! https://t.c…"
+,,,,,,"RT @janexwang: SGD has two distinct phases... neat paper - Opening the Black Box of Deep Neural Networks via Information https://t.co/8mNzK…"
+,,,,,,"RT @karpathy: A Computer Scientist’s View of Life, the Universe and Everything, Schmidhuber 1997 https://t.co/YD2WJxeTxn I'm ok making this…"
+,,,,,,"RT @PyTorch: Recursive Neural Networks using @PyTorch, a blog post by @jekbradbury explains recursive nets, graphs, etc.
+https://t.co/fr6BK…"
+,,,,,,"RT @DmitryUlyanovML: Released paper: ""Adversarial Generator-Encoder Networks"" with V. Lempitsky, A. Vedaldi. https://t.co/APSpRMo0EY code h…"
+,,,,,,"RT @soumithchintala: Evolution Strategies put in a simple post, very easy to understand. 
+Thanks @karpathy and team.
+https://t.co/zXUJI73oVx"
+,,,,,,"RT @PyTorch: OpenAI's new paper ""Evolution Strategies as a Scalable Alternative to Reinforcement Learning"" implemented in @PyTorch https://…"
+,,,,,,"RT @PyTorch: Variable-length RNNs, Better Indexing, Sparse Tensors, Faster CPU Ops, Many Bug Fixes. 
+v0.1.10 release notes:
+https://t.co/1v…"
+,,,,,,"RT @cvondrick: CVPR workshop on negative results! https://t.co/hrYo7D6Nni"
+,,,,,,"RT @DeepMindAI: Our recent paper gives new theory &amp; empirical insights for Synthetic Gradients: a method to decouple neural nets https://t.…"
+,,,,,,"[R] [1701.07274] Deep Reinforcement Learning: An Overview https://t.co/Fs30YXMONI via @reddit"
+,,,,,,"RT @ogrisel: Excellent overview paper with rigorous yet easy to follow formalism. Fisher, Hessian, Generalized Gauss-Newton matrices and re…"
+,,,,,,"RT @TorchML: Pretrained SkipThoughts models (word2vec, seq2seq, seq2vec) for Torch
+https://t.co/EoKLxGvKaC"
+,,,,,,"RT @karpathy: Article on the mirror test which, despite its flaws, is my favorite animal cognition test https://t.co/9b6N58ChiG"
+,,,,,,"RT @NandoDF: Agree. This is a fantastic paper! https://t.co/jN79KlBuPF"
+,,,,,,"RT @goodfellow_ian: OpenAI blog post on adversarial examples: https://t.co/dnKtcgppuh"
+,,,,,,"RT @NandoDF: Online Segment to Segment Neural Transduction - Belief propagation for seq2seq models. Brilliant! https://t.co/uJdWjB0MtH"
+,,,,,,"RT @NandoDF: Structured Attention Networks - Belief propagation to generalise soft attention. https://t.co/BBBgARC7yC"
+,,,,,,"RT @NandoDF: CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning. This one is clever. https://t.co/FIVrc…"
+,,,,,,"RT @brandondamos: block: My [short] new Python library for intelligent block matrices in numpy, @PyTorch, and beyond.
+
+https://t.co/VPmMK6O…"
+,,,,,,"RT @fchollet: MNIST is a unit test for learning algorithms: it works fine for basic prototyping and debugging. But to prove a point, use so…"
+,,,,,,"RT @soumithchintala: TorchCraft is out on github! Awesome last push from @syhw @nntsh and @ebetica! https://t.co/SPswmChMJ4 Read more: http…"
+,,,,,,"@morgangiraud Thanks a lot for your best practices in @tensorflow ;) https://t.co/y3jv4rmqzW"
+,,,,,,"Unsubscribe from unwanted emails and combine the rest into a single daily digest with @Unrollme https://t.co/SNc4YXRZFr"
+,,,,,,"RT @datasciencegame: Intéressés par l'organisation du #DSG17 ? Rencontrez nous jeudi 17/11 à 19h30 au My Little Pub , 10 r de... https://t.…"
+,,,,,,"RT @DmitryUlyanovML: Find interactions of any order with ""Exponential Machines"" by @SashaVNovikov, @gef0rce, @oseledetsivan https://t.co/s4…"
+,,,,,,"RT @datasciencegame: Data Science Game will be present at NIPS CiML on Friday December 9, 2016, Barcelona, Spain! Come and discover... http…"
+,,,,,,"RT @heuritechdata: #Deeplearning #Meetup #7 @heuritechdata on #convolutionnal #neuralnetworks: a brief report https://t.co/yX7O55ihlu https…"
+,,,,,,"RT @NandoDF: Kudos to Allen Institute for Artificial Intelligence for releasing this data for AI research  https://t.co/3lcnzvZrg0"
+,,,,,,"RT @fchollet: Code &amp; ImageNet weights for the Xception model are available as part of keras.applications: https://t.co/H2n5PQzSTO (TensorFl…"
+,,,,,,"RT @DmitryUlyanovML: Released multicore t-SNE implementation with Python and @TorchML wrappers. Still much room for improvement. https://t.…"
+,,,,,,"RT @karpathy: Coworker on RL research: ""We were supposed to make AI do all the work and we play games but we do all the work and the AI is…"
+,,,,,,"RT @fhuszar: Reading the Xception paper by @fchollet already gave me some new research ideas to try. Here is my lasagne code for a Contrace…"
+,,,,,,"RT @soumithchintala: should pretty much become the new imagenet. Half the dataset is not just dogs and cats :)
+https://t.co/NsC5wCFeQD"
+,,,,,,"RT @TheParisAI: Join us on Sep22 for @TheParisAI 's 1st meetup.Great speakers hosted at The Family Register: https://t.co/n0BvZKuLO0 https:…"
+,,,,,,"RT @master_dac: L'équipe du Master Data Science (DAC) de l'UPMC termine 4ème lors de la finale du Data Science Game #DSG16, et première équ…"
+,,,,,,"RT @datasciencegame: Team Jonquille from @upmc  did not get much  sleep at #DSG16 https://t.co/SXXlX6oskj"
+,,,,,,"RT @Q3Techno: #Q3Techno meeting the best #DataScientists in the world at #DSG16 . Let the games begin!!! @datasciencegame https://t.co/FL0b…"
+,,,,,,"@SoundCloud When will you add a History feature (to keep track of already listened songs) ?"
+,,,,,,"RT @karpathy: A paradoxically highly unassuming paper with hard-to-believe results https://t.co/5XuvB7Ds1d might bring back pretraining if…"
+,,,,,,"RT @datasciencegame: Ranked first after the online phase, team Jonquille from @upmc is favourite for the #DSG16 #MachineLearning #BigData h…"
+,,,,,,"RT @karpathy: Thyme: new tool to track productivity similar to ulogme https://t.co/jE3SYCcMpH looks great, eager to check out"
+,,,,,,"End-to-End Deep Learning for Self-Driving Cars https://t.co/OhrMtf71Zf"
+,,,,,,"RT @DeepMindAI: Just out: our new paper unlocks neural nets by removing the dependency on backpropagation using Synthetic Gradients! https:…"
+,,,,,,"98 personal data points that Facebook uses to target ads to you https://t.co/bX3ptOO2bZ"
+,,,,,,"Great blog post, especially the end (Tensorflow versus Torch) https://t.co/cIZCf2QXnh"
+,,,,,,"RT @mxlearn: DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks https://t.co/G…"
+,,,,,,https://t.co/a8OI7i4uqF
+,,,,,,"RT @NandoDF: Residual Networks of Residual Networks: Multilevel Residual Networks --- Impressive results https://t.co/cdETbmOGaW"
+,,,,,,"Scikit Optimize
+https://t.co/37eyHkBMKg"
+,,,,,,"Torch Dataframe (torchnet)
+https://t.co/yrCR7gxdQ5"
+,,,,,,"RT @nervanasys: Breaking news! #Nervana is planning to join #Intel!! Read the full story in this post by our CEO: https://t.co/3gC4l4Pvof @…"
+,,,,,,"Data anonymization 
+https://t.co/TSYx9bcbsc"
+,,,,,,"RT @karpathy: About 40,000 fMRI studies published in the scientific literature called into question due to a bug https://t.co/8ThHg46qyL wo…"
+,,,,,,"RT @hugo_larochelle: My notes on Learning End-to-end Video Classification with Rank-Pooling: https://t.co/IStcKu96NC
+Nice approach on deriv…"
+,,,,,,"Note on deep learning sota
+https://t.co/maTpv2HFue"
+,,,,,,"Tuning Deep Learning Episode 1: DeepMind's A3C in Torch
+https://t.co/jRIhJCbhY4"
+,,,,,,"10 Papers from ICML and CVPR 2016
+https://t.co/LAhjeVJxpK"
+,,,,,,"Optimization Methods for Large-Scale ML (Bottou, Curtis, Nocedal) 100 pages 
+https://t.co/bx1JYfONGm"
+,,,,,,"RT @ylecun: Reinforcement learning in Torch by Ludovic Denoyer.
+
+https://t.co/aEIvLLdEu4 https://t.co/nSyAqQTtvF"
+,,,,,,"RT @TorchML: TorchNet is a Torch package from Facebook that makes it super-easy to train neural nets, even if you don't know Lua https://t.…"
+,,,,,,"RT @TorchML: An example of using @OpenAI 's Gym learning environment with Torch using the fantastic LuTorPy bridge 
+https://t.co/5EAiaQvNUQ"
+,,,,,,"RT @karpathy: ""Towards an integration of deep learning and neuroscience"" https://t.co/QRXA07t5xP [pdf]; Good review article"
+,,,,,,"Why Energy &amp; Transportation will be Obsolete by 2030
+https://t.co/rsWRNsvbZO"
+,,,,,,"A Framework for analysing Non-Convex Optimization https://t.co/okG32107SQ"
+,,,,,,https://t.co/9uffgQqVUc
+,,,,,,https://t.co/srLNtbK0Ou
+,,,,,,"RT @karpathy: Neat talk by Geoff Hinton https://t.co/e0xUq6eXP7 ""STDP is the signature of backprop using temporal derivatives as error sign…"
+,,,,,,"RT @TorchML: We wish our DeepMind friends the best of luck, and we appreciate their contributions. We remain strong with our strong communi…"
+,,,,,,"RT @TorchML: Image in-painting using hybrid adversarial networks (w/ torch demo)
+https://t.co/5W0FTcZHxC https://t.co/F77qUkNk4j"
+,,,,,,"RT @stopman: We just finished our @kaggle deep learning photo classification contest. The winner's interview: https://t.co/QAWymG5Vml @Yelp…"
+,,,,,,"RT @karpathy: You can split the brain in half (corpus callosotomy) and it's fine. You can also take out 90% of it and it's fine https://t.c…"
+,,,,,,"RT @TorchML: Harvard NLP release a series of Torch NLP projects like seq2seq and sentence classification: https://t.co/hQ31pV6yAQ"
+,,,,,,"RT @karpathy: Justin and I just released code for our CVPR2016 paper DenseCap: joint detection+captioning https://t.co/yZAemhubfx https://t…"
+,,,,,,"Learn version control with Git for free - with our online books, videos &amp; tutorials. #gittower  https://t.co/pH6ajcAjqr"
+,,,,,,"RT @wfwhitney: Our latest paper learns concepts of objects and movement with zero supervision. Description, demos, and code: https://t.co/s…"
+,,,,,,"RT @TorchML: Training and investigating Residual Nets (with training code + pre-trained models) by Sam Gross and Michael Wilber: https://t.…"
+,,,,,,"RT @AlisonBLowndes: Discussing BatchNorm and mini batches.. see @BaiduResearch work on #DeepSpeech2 https://t.co/wAKNPIooob #DLworkshop @nv…"
+,,,,,,"[PDF] Mastering the Game of Go with Deep Neural Networks and Tree Search
+https://t.co/YGQaX2zeOp
+#DeepMind"
+,,,,,,"RT @amiconfusediam: Pixel RNNs - 2D RNNs that spit out pixel values. Pretty cool stuff from DeepMind.
+https://t.co/ySB4RnAbSy https://t.co/…"
+,,,,,,"RT @CharlesOllion: New post on attention mechanism by @leonardblier and I, beginning of a series on attention and QA. Comments welcome! htt…"
+,,,,,,"RT @mtyka: A new style transfer paper out. This method is even more impressive. https://t.co/Qz0pswaMeR via @samim https://t.co/iRC2ZKK0jr"
+,,,,,,"Great blog post on Artificial General Intelligence :
+https://t.co/SUWgfDMNKd"
+,,,,,,"RT @benhamner: Recognizing &amp; localizing right whales with extremely deep neural nets (2nd place on @kaggle) https://t.co/YofxOLUtfd https:/…"
+,,,,,,"@karpathy intuitions, maths, examples, history : https://t.co/F0dERA9Sy4 the perfect resources for me :)"
+,,,,,,"Really good mathematical explanation of how backpropagation works
+https://t.co/F0dERA9Sy4"
+,,,,,,"Awesome articles on Deep Learning and Neuroscience from @Tim_Dettmers 
+https://t.co/gjuM03FpWx"
+,,,,,,"@kbullaughey Thank you so much for your tutorial on rnn/lstm ;)
+https://t.co/5WwYHN6HIb"
+,,,,,,"RT @AgoniGrammi: #DeepLearning surpassing human intelligence
+https://t.co/Yl5kqwfe4C
+in #computervision from @centralesupelec 
+#machinelear…"
+,,,,,,"RT @hugo_larochelle: My notes on Infinite Dimensional Word Embeddings:
+https://t.co/eDGL7Krxum"
+,,,,,,"Pretty interesting ""Explore Einstein's unusual brain.""
+https://t.co/DDYzBoP3LO"
+,,,,,,"Salon #datajob le 20 novembre 2014 via @datajobparis"
+,,,,,,"Writing tips
+https://t.co/4DWSsRWAtO"
+,,,,,,"RT @ylecun: New open-source deep learning framework from Samsung.
+
+Runs within Apache. Looks OK for people we want to train a... https://t.…"
+,,,,,,"How to be a good scientist :
+https://t.co/2duB1PUugk"
+,,,,,,"Cheap DNA Sequencing Is Here – Writing DNA Is Next
+https://t.co/zWdXupmd4z"
+,,,,,,"“France, The New Startup Factory” by @romainserman https://t.co/rkzwytgKxo"
+,,,,,,"Wow that's interesting : new way of understanding neurons
+https://t.co/8gWUzOUUOr"
+,,,,,,"RT @karpathy: Fluid simulation with Machine Learning https://t.co/zNWKJ0dB0P formulates physics-based fluid simulation as
+a regression prob…"
+,,,,,,"#TensorFlow bencharks by Soumith @amiconfusediam https://t.co/S41o1VawfT"
+,,,,,,"Last awseome paper of Bengio
+https://t.co/Xiev2u7qd4
+Easy to read and understand"
+,,,,,,"RT @ylecun: Autograd: automatic differentiation package for Torch from our friends at Twitter Cortex.
+
+blog post:... https://t.co/rrOW2rT4uf"
+,,,,,,"Inside The Mind That Built Google Brain: On Life, Creativity, And Failure https://t.co/CjtzH0Ia4A via @HuffPostTech"
+,,,,,,"RT @karpathy: My dream finally came true: Yelp has discovered ConvNets https://t.co/NoZoNhKY5A So much value for so little cost. Strangely …"
+,,,,,,"RT @DanielRapp: Learning game of life with #ConvNetJS! Radical! @karpathy 
+http://t.co/p6rHslpWZc http://t.co/xhlJRAoxYu"
+,,,,,,"RT @AndrewYNg: New blog post on how to accelerate RNNs (recurrent neural nets) using GPUs! http://t.co/hDz9nMj86u"
+,,,,,,"RT @karpathy: Grasp detection Kaggle winner with Recurrent ConvNets http://t.co/JJVc325uha I missed their cvpr paper (http://t.co/iHmUVrpmU…"
+,,,,,,"RT @karpathy: Very nicely done @yoavgo: A Primer on Neural Network Models for Natural Language Processing http://t.co/M7sHVFPr6c"
+,,,,,,"RT @karpathy: Optimizing 3x3 CONV with Winograd’s minimal filtering alg, speeds up VGG ConvNet by 2.6x http://t.co/6d5NbrOO4h Like."
+,,,,,,"GitHub Enterprise, Bitbucket Server, GitLab, and Perforce GitSwarm - now all supported in Tower 2! http://t.co/lSNNDrHqUf"
+,,,,,,"RT @gittower: 10 Steps to Becoming a Ridiculously Agile Developer http://t.co/un4cB6WJKh"
+,,,,,,"RT @amiconfusediam: google releases their imagenet inception model pre-trained weights: https://t.co/ClhD5WERC5"
+,,,,,,"RT @hugo_larochelle: Notes on Towards Neural Network-based Reasoning https://t.co/Q5NZFt4OXB . 
+A take on reasoning different from Memory N…"
+,,,,,,"RT @karpathy: ConvNet benchmarks update https://t.co/I7ybKooIQd CuDNN R3 is catching up to Nervana's kernels &amp; FFT conv becoming competitiv…"
+,,,,,,"RT @amiconfusediam: the latest round of convnet benchmarks: https://t.co/j0hHo2igFr"
+,,,,,,"RT @karpathy: Whoa, very nice stylized images rendered with ConvNets http://t.co/AUrIMdtse7 needs its own subreddit http://t.co/JcGIztlOCO"
+,,,,,,"RT @TorchML: We just started http://t.co/8a1dSL66vj . Will cover interesting stuff from the Torch community and have a wide range of guest …"
+,,,,,,"RT @karpathy: Nice/fun intro to multi-armed bandit by Ian http://t.co/COPVTFZfla he's very new to blogging but doing it right :)"
+,,,,,,"RT @karpathy: Stumbled by Jon Shlens' ""A Tutorial on Principal Component Analysis"" http://t.co/v2AX3p60rg I'm told this is The best guide"
+,,,,,,"RT @karpathy: Very nice/long blog post from @yaringal on uncertainty in Neural Networks: ""What My Deep Model Doesn't Know..."" http://t.co/c…"
+,,,,,,"Document Clustering with Python
+http://t.co/hwPyOeQIX8"
+,,,,,,"Going Deeper Into NN
+http://t.co/CAmJvw17CL"
+,,,,,,"Transfer Learning for Visual Recognition
+http://t.co/LikQpQsPEq"
+,,,,,,"Kaggle Ensembling Guide
+http://t.co/EshdOL1w3e"
+,,,,,,"Purify CSS using JS
+https://t.co/HKrlramVEw"
+,,,,,,"NN
+http://t.co/NNQ7dIqzZL"
+,,,,,,"Optimizing Python
+https://t.co/6N4vlMd4RJ"
+,,,,,,"If training vanilla neural nets is optimization over functions, training recurrent nets is optimization over programs
+http://t.co/dIIHqg127O"
+,,,,,,"best git tutorial for now
+https://t.co/JLkk88mlEe"
+,,,,,,"Blog on NLP
+http://t.co/lmkyRQtu2W"
+,,,,,,"Blog on Deep Learning
+http://t.co/Xpg5722cnT"
+,,,,,,"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.
+http://t.co/cemaWpTE7F"
+,,,,,,"10 Common Misconception about NN
+http://t.co/eXMup02y1T"
+,,,,,,"History and futur of machine learning
+http://t.co/edAWb7364d"
+,,,,,,"webGL particles
+http://t.co/2cfQtJdOZb"
+,,,,,,"webGL fundamentals
+http://t.co/uZaJRDLVNF"
+,,,,,,"The Palinopsia Bug
+https://t.co/Q4z6l00dzn"
+,,,,,,"Raytracing Blackhole (python)
+http://t.co/q1DNK7QfLj"
+,,,,,,"Need access to high volumes of blog, news and social media data?
+http://t.co/7bLLGZkl0b"
+,,,,,,"DRAW: A Recurrent Neural Network For Image Generation (DeepMind)
+http://t.co/0ZI1lwlUht"
+,,,,,,"@OmkarShetkar what kind of images ? Is it a classification problem ? The best performance are obtained using deep neural networks"
+,,,,,,"Delving Deep into Rectifiers:
+Surpassing Human-Level Performance on ImageNet Classification
+http://t.co/IbrfaNkhkZ"
+,,,,,,"How your camera works ?
+http://t.co/1JmInhoDCh"
+,,,,,,"Hexagons Map (Biskanah) A* ;)
+http://t.co/QmrKWfmzYS"
+,,,,,,"New NPL lib in Python (sota?)
+http://t.co/pFUzEuCblf"
+,,,,,,"Developing iOS 8 Apps with Swift (Stanford)
+https://t.co/vdPhMLTLCv"
+,,,,,,"Mario Lives!
+https://t.co/fE1NxbuRbt"
+,,,,,,"Quantum Computers as Learning Machines
+http://t.co/FL8I8zgDWV"
+,,,,,,"FAIR open sources deep-learning modules for Torch
+https://t.co/2uBEI8cffG"
+,,,,,,"Deep Image: Scaling up Image Recognition (state of the art)
+http://t.co/vaJlu3TXhl"

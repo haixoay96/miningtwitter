@@ -1,0 +1,260 @@
+﻿NAME,FOLLOWER,LIKE,DESCRIPTION,"TOTAL RETWEET",TOTAL_LIKE,TWEET
+PyTorch,8982,144,,9819,11399,"@_seanlane that page will 403. But the wheel links work.
+For example:  https://t.co/QrDHe5Li6H"
+,,,,,,"@sergecell Nicer documentation is live now: https://t.co/xDJUJYjNur https://t.co/a6XKWhn4Oi"
+,,,,,,"RT @jeremyphoward: Excited to announce that, thanks to @anandsaha, not only is fastai the first library to incorporate the new AdamW and SG…"
+,,,,,,"RT @DmitryUlyanovML: ""Deep Image Prior"": super-resolution, inpainting, denoising without learning on a dataset and pretrained networks. Com…"
+,,,,,,"@sergecell @sergecell improvements are on the way, thanks for flagging this. https://t.co/YsER2l9ofI"
+,,,,,,"@sergecell will fix"
+,,,,,,"RT @DmitryUlyanovML: Wow, StarGAN results look good!
+
+arXiv: https://t.co/SMZ0RCqg7K
+github: https://t.co/zKcxP1inYO https://t.co/lElqB4MKf8"
+,,,,,,"RT @ajmooch: Fresh out of Berkeley is Shift (https://t.co/LSXXgVFenS) , which replaces the spatial 3x3 part of separable convolutions with…"
+,,,,,,"@shimst3r https://t.co/QeBIfZm545"
+,,,,,,"@adonese_yousif advanced indexing was in pytorch since the 0.2 release"
+,,,,,,"@erinjerri there's nothing we need to do to support 17.10, it'll working as-is with our binaries"
+,,,,,,"@erinjerri the next version releasing soon will have CUDA9 binaries. Currently if you want CUDA9, install from sour… https://t.co/MxQTsgcU12"
+,,,,,,"@danielhavir subtle detail you should be aware of:
+- only gradients are summed across replicas in (7), BatchNorm bu… https://t.co/dLReyGFGRE"
+,,,,,,"@danielhavir yes. 
+DataParallel is -&gt; 
+1. replicate model 
+2. split input over batch dimension 
+3. output[i] = repl… https://t.co/5QP455sfwV"
+,,,,,,"@TensorFlow @Raspberry_Pi answered by @petewarden . Thank you Google for making it an open competition to an extent. https://t.co/2m9eOefYO7"
+,,,,,,"@TensorFlow @Raspberry_Pi Can we take part too?"
+,,,,,,"@MaloMarrec thank you for your support!!! &lt;3"
+,,,,,,"RT @stanfordnlp: Pytorch implementations of many of the deep learning NLP models discussed in cs224n by Kim SungDong. #dlearn #NLProc https…"
+,,,,,,"@bunnisher @soumithchintala @Raspberry_Pi v0.3 rollout next week, but prob not an arm32 / arm64 build, we dont do those (yet)"
+,,,,,,"RT @sasank51: New @PyTorch tutorial on Spatial Transformer Networks (STN) by @HamrouniGhassen is live here: https://t.co/XWeXaH6IwX
+ 
+STNs…"
+,,,,,,"@cvscientist https://t.co/zJlQHuUr6X
+https://t.co/qDswWI4peN"
+,,,,,,"Monaural Singing Voice Separation - separate voice from the song by @seaandsailor &amp; team
+https://t.co/Ba2Qfy5w0m https://t.co/HnMPwg2rv7"
+,,,,,,"A simple library for implementing Decoupled Neural Interfaces with Synthetic Gradients
+https://t.co/79yN5dushI https://t.co/VBnrGkaMYo"
+,,,,,,"@chrisemoody  https://t.co/kVx0ZoDO1U"
+,,,,,,"Pyro, a probabilistic programming language on top of @PyTorch from Uber AI Labs
+https://t.co/pSS2koFLDG
+https://t.co/Zy7qDAKVxg"
+,,,,,,"RT @mattmayo13: A #Pytorch implementation of Hinton's ""Dynamic Routing Between Capsules"" https://t.co/Q5vSnfEVAk https://t.co/izfXV3b4pA"
+,,,,,,"RT @ptrblck_de: @PyTorch inference code of Progressive Growing of GANs (Karras et al. @NvidiaAI) for CelebA data: https://t.co/FF0bLbaraR @…"
+,,,,,,"Learn PyTorch with no Deep Learning background with Sung Kim's PyTorchZeroToAll
+https://t.co/RIrGa3seQE https://t.co/7gUCI1H04a"
+,,,,,,"RT @thomaskipf: Re-implemented graph convolutional nets in PyTorch as an afternoon project today: massive speed-up (~5x on Cora) compared t…"
+,,,,,,"RT @Smerity: In case you were using @PyTorch QRNN in a project for the ICLR deadline, it now supports DataParallel multi-GPU ;)
+https://t.c…"
+,,,,,,"RT @lantiga: We just released the video of the @PyTorch hands-on on Oct 11 in Milan with @soumithchintala and @apaszke: https://t.co/dQfrNo…"
+,,,,,,"RT @yaroslavvb: Optimizing deeper networks with KFAC in @PyTorch https://t.co/oVNxn66osv"
+,,,,,,"@ChrisWellsWood glad you like it. if you have any questions reach out to us at https://t.co/QeBIfZ4ucx"
+,,,,,,"Implementations of various RL algos: Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO) and ACKTR: https://t.co/8DTdsegrXp"
+,,,,,,"RT @Smerity: We're releasing @PyTorch-QRNN, 2-17x faster than NVIDIA's cuDNN LSTM.
+Speed thanks to 50 lines of CUDA via CuPy.
+https://t.co/…"
+,,,,,,"@Tim_Dettmers https://t.co/PZVg8nomOY"
+,,,,,,"RT @eprosenthal: @PyData NYC schedule's out! Come hear me speak about deep learning and @PyTorch https://t.co/W1dgwUlAzW"
+,,,,,,"RT @xbresson: Just posted on GitHub the PyTorch implementation of our NIPS’16 spectral graph convnets: https://t.co/ROEEdBroJa"
+,,,,,,"DeepMoji, a system from MIT that understands emotions and sarcasm from millions of emojis, reimplemented in PyTorch… https://t.co/URcAMR5hPN"
+,,,,,,"@apaszke @skrish_13 @soumithchintala @fhuszar it's been fixed in master. part of next release."
+,,,,,,"RT @khanhxuannguyen: Our code for Reinforcement Learning + Neural Machine Translation: https://t.co/O0PZiqaH8L @nlproc https://t.co/aNacA9I…"
+,,,,,,"RT @santty128: Join us to @PyTorch this deep world in #UPC Barcelona https://t.co/mPPAEqJWsD"
+,,,,,,"a plethora of GANs, now available in @PyTorch too, thanks to Hyeonwoo Kang: https://t.co/5c9542lwv6
+(h/t to origina… https://t.co/NkumWO9IIA"
+,,,,,,"@uapatira we were briefly upgrading our server to a more powerful option (lots of users, server was getting slow). it is back up now :)"
+,,,,,,"Convolutional Sequence to Sequence models for Machine Translation: FAIR Sequence-to-Sequence Toolkit… https://t.co/hXIvO2vl5o"
+,,,,,,"RT @orobix: The wait is over! Hands-on @PyTorch event, October 11th in Milan with @soumithchintala and @lantiga. Free admission. info@orobi…"
+,,,,,,"RT @xiangrenUSC: Fast &amp; state-of-the-art seq labeling w/ @PyTorch. Co-training a LM yields better (task-aware) char embs! https://t.co/RGyi…"
+,,,,,,"From the researcher who brought us Dilated ConvNets: 
+Dilated Residual Networks for Semantic Segmentation https://t.co/m3lexjJCXg"
+,,,,,,"@brianray https://t.co/zJlQHuUr6X"
+,,,,,,"RT @evolvingstuff: ""5-10x faster than cuDNN-optimized LSTM""
+Training RNNs as Fast as CNNs
+https://t.co/Cs4WDXgoiW
+PyTorch source code: http…"
+,,,,,,"RT @JeanKossaifi: Tensor methods using #TensorLy with @pytorch backend! (proof of concept)
+https://t.co/NmOQjPtyns"
+,,,,,,"RT @allenai_org: #AI2 is proud to announce AllenNLP – an open-source #NLP research library built on #PyTorch.  Check it out at https://t.co…"
+,,,,,,"RT @jeremyphoward: This year's @fastdotai course will be a complete rewrite, using a new @pytorch framework that lets us do amazing things…"
+,,,,,,"@adropboxspace https://t.co/sL9LRfu4NC
+On windows: `conda install pytorch -c peterjc123`"
+,,,,,,"@Maciej_Kula coming soon... ;-)"
+,,,,,,"You can now export our models to other frameworks, starting with @caffe2ai and @mscntk. Run them on mobile and prod… https://t.co/7wgMSxgyuR"
+,,,,,,"@muktabh @udemy Congrats Muktabh!"
+,,,,,,"RT @ilblackdragon: Published Dynamic Batching for #PyTorch https://t.co/hIwebLtdNQ #MachineLearning #DeepLearning Nice speedups for #Recurs…"
+,,,,,,"VoiceLoop: an open-source neural text-to-speech system from @facebook 
+https://t.co/M1gb0G0HIu https://t.co/2M5sIHTGwI"
+,,,,,,"RT @jeremyphoward: Notes on state of the art techniques for language modeling https://t.co/BOnq5c4LdI h/t @smerity
+Any other NLP content su…"
+,,,,,,"@jyptrvl is this by choice? if so we're curious to know what didn't work for you on the PyTorch side that we can improve"
+,,,,,,"RT @Smerity: Our @PyTorch AWD-LSTM code for state-of-the-art language modeling (PTB/WT2) with @StrongDuality and @RichardSocher
+https://t.c…"
+,,,,,,"RT @F_Vaggi: Very proud of this work!  Full @PyTorch implementation available as well here: https://t.co/ORP4m5f0yU https://t.co/r56IlDXz2U"
+,,,,,,"@samkaufman @anuraggoel --ipc=host is not a requirement, could also simply increase shm size with --shm-size 8G (fo… https://t.co/61IWUvaUEM"
+,,,,,,"RT @kevin_zakka: ""Getting Up and Running with @PyTorch on Amazon Cloud"" tutorial is up on my blog! https://t.co/pKEqJ101jH https://t.co/cLM…"
+,,,,,,"RT @sjain_stanford: It's finally out! @PyTorch code for our paper on training deep FCN to route circuits is here https://t.co/rJB8dUlulK
+ht…"
+,,,,,,"RT @karpathy: The updated ImageNet training example with support for distributed training is a beauty https://t.co/i39By0OCl3 clean 300 lin…"
+,,,,,,"PyTorch v0.2 is out: Higher order gradients, Distributed PyTorch, Broadcasting, Advanced Indexing, New Layers, more!
+https://t.co/fBTjSLZOx1"
+,,,,,,"RT @erogol: Finally!! OpenCV comes with Deep Learning supporting @PyTorch @tensorflow and caffe1 https://t.co/wLTHnzGml9"
+,,,,,,"@AyalaSaenzJorge not unless you want to run Python in your android app."
+,,,,,,"DrQA: question answering system described in ""Reading Wikipedia to Answer Open-Domain Questions"" from @facebook… https://t.co/8xT53rh43G"
+,,,,,,"RT @sleepinyourhat: My (amazing) visiting undergrad Freda just released first public impl. of ""Structured Self-Attentive Sentence Emb."" htt…"
+,,,,,,"The first chapter of the first book on @PyTorch (early release). Thank you @GokuMohandas and @deliprao ! https://t.co/o8ZbS6H30k"
+,,,,,,"@AMP_SV @sleepinyourhat @GokuMohandas @deliprao I'll retweet it as ""the first chapter of the first book"""
+,,,,,,"RT @nmrql_engineers: Really useful implementation of various Gaussian Process models in @PyTorch: https://t.co/sZJZY5SntJ. #MachineLearning…"
+,,,,,,"RT @KaiLashArul: NoisyNet-A3C (with LSTM) implemented in @PyTorch: https://t.co/rkIx793Acf. Glad to see the end of entropy maximisation! Se…"
+,,,,,,"@baaadas yes."
+,,,,,,"Meow Generator using 5 different types of GANs by Alexia Jolicoeur-Martineau (w/ provided source code in @PyTorch )… https://t.co/icgaIhCFTY"
+,,,,,,"SentEval: evaluate the quality of sentence embeddings on a diverse set of ""transfer"" tasks: https://t.co/zxESqMDsIe https://t.co/m4uHukHOwF"
+,,,,,,"Here is their paper describing their solution in detail: https://t.co/j9bqDkxi05"
+,,,,,,"Congrats to grt123: winning team of DataScience Bowl 2017 on lung cancer detection. Thank you for the code release!… https://t.co/nLwJnR66xL"
+,,,,,,"Researcher @RitchieNg made a @PyTorch course suitable for anyone new to DL / want a solid grounding in DL theory… https://t.co/eswZWxNCzH"
+,,,,,,"PyTorch implementation of YellowFin here: https://t.co/p6szepb7nK https://t.co/akiZSZB8qp"
+,,,,,,"RT @hardmaru: Sketch-RNN implementation in @PyTorch by Alexis Jacq. Seems to work with prepackaged QuickDraw npz files. via @samim https://…"
+,,,,,,"RT @KaiLashArul: &lt; 300 LoC to train and (IoU) test semantic segmentation with FCNs in @PyTorch: https://t.co/XiENv5wWwW"
+,,,,,,"RT @ogrisel: PyTorch code for MUTAN: Multimodal Tucker Fusion for Visual Question Answering: https://t.co/bR0T1qgETb arxiv link: https://t.…"
+,,,,,,"RT @sasank51: New @PyTorch tutorial on DataLoader is up! https://t.co/TrQ1AsurQj https://t.co/4FrZNqfWb7"
+,,,,,,"RT @alxndrkalinin: #Pytorch code for @DeepMindAI's ""A simple neural network module for relational reasoning"" (Relational Networks) https://…"
+,,,,,,"RT @sprobertson: Solving a simple gridworld game with actor-critic in @PyTorch https://t.co/Pj3TLeF6i0 (a tutorial version of the REINFORCE…"
+,,,,,,"DiracNets: Training Very Deep Neural Networks Without Skip-Connections
+https://t.co/0Kv8SdkyIc https://t.co/1iBlV0NvEc"
+,,,,,,"@edersantana @tensorflow read videos through your favorite python libray: pyopencv / pyffmpeg. Nothing different has to be done."
+,,,,,,"PyTorch on Windows (unofficial) enabled by our community member peterjc123. Read more: https://t.co/PyXHR0Dyll …
+Th… https://t.co/qckRVlZ5NK"
+,,,,,,"RT @debuggermassa: Very useful readup on @PyTorch internals, if you want to know what happens under the hood, python-C bindings, etc.
+👌
+htt…"
+,,,,,,"RT @cybertreiber: Transfer Learning across @PyTorch's model zoo: custom number of classes, easy comparison.
+https://t.co/IdQN532NtN https:/…"
+,,,,,,"How to train a DRAGAN in @PyTorch https://t.co/6TPuqpIcZj"
+,,,,,,"""On the Effects of Batch and Weight Normalization in Generative Adversarial Networks""
+https://t.co/UsgPjfhsER"
+,,,,,,"RT @KaiLashArul: Malmo Collaborative AI Challenge entry w/ @BalmNat @pwnic: https://t.co/31HUaXwFBu . ACER w/ option heads, implemented in…"
+,,,,,,"RT @jmtomczak: Code in @PyTorch for ""VAE with a VampPrior"" (https://t.co/GRolNxOcLu): https://t.co/51fZdu6bbE"
+,,,,,,"RT @jeremyphoward: My @nvidia GTC talk ""Build a neural translation system from scratch with @PyTorch"" is now available https://t.co/oafF0R6…"
+,,,,,,"RT @sprobertson: My house is running on @PyTorch via https://t.co/cb6UbYKNaf https://t.co/TEQKSohsuk"
+,,,,,,"Inferring and Executing Programs for Visual Reasoning https://t.co/Ln8BpwdZVD https://t.co/nCGjGEr8OL"
+,,,,,,"We will be supporting the @nvidia Volta line of chips, CUDA 9, CuDNN 7 and NCCL 2 from the day one. More about Volta
+https://t.co/lytVgdPzQX"
+,,,,,,"@alexjc it's a software stack, not a cloud service itself."
+,,,,,,"@edersantana hope you have a good experience Eder! :)"
+,,,,,,"If you're at @nvidia #GTC2017, great @pytorch presence.
+Two talks: Monday 5pm by @jeremyphoward, Tuesday 10am by… https://t.co/fWFxUgjRGa"
+,,,,,,"A playground of vision models in @PyTorch, showcasing quantization at 12-bit, 10-bit, 8-bit and even 6-bit:… https://t.co/cQDBQ4Bz8f"
+,,,,,,"RT @jekbradbury: This is super cool and major 👏 to FAIR and Jason for open-sourcing it -- wraps @PyTorch and 20+ NLP/dialog datasets https:…"
+,,,,,,"@OfficialOksy @tensorflow @TWG any good points / a summary?"
+,,,,,,"RT @sprobertson: A Practical @PyTorch interlude, Exploring Word Vectors with GloVe and torchtext: https://t.co/IXeSR9fUhi https://t.co/IxbH…"
+,,,,,,"@GPUComputing @jeremyphoward @fastdotai isn't it neural translation system?
+https://t.co/uyK0ULBQ9a"
+,,,,,,"Sparse CUDA Tensors, new layers, performance and bug fixes: v0.1.12 is out, our last 0.1 release. Read more here:
+https://t.co/dAm6HDtxpH"
+,,,,,,"@alexjc @apaszke @soumithchintala this should all be fixed. sorry for the trouble. We got hit by an upstream python… https://t.co/JRoBx25LOw"
+,,,,,,"@TheEcolss @apaszke fixed and safeguards have been put into place."
+,,,,,,"@karand3sai @soumithchintala @apaszke there's an open PR that pretty much enables it: https://t.co/hIsGQelQE8"
+,,,,,,"A two-part series on Transfer Learning by @vishnuvig 
+Part-2 includes runtime comparison with Keras and Tensorflow
+https://t.co/vycK4y2apT"
+,,,,,,"Change horses into zebras and sketches into handbags: PyTorch implementation by the paper authors:… https://t.co/ofoX6hUzy6"
+,,,,,,"Recursive Neural Networks using @PyTorch, a blog post by @jekbradbury explains recursive nets, graphs, etc.… https://t.co/SmZga8l6jr"
+,,,,,,"RT @DmitryUlyanovML: Released paper: ""Adversarial Generator-Encoder Networks"" with V. Lempitsky, A. Vedaldi. https://t.co/APSpRMo0EY code h…"
+,,,,,,".@soumithchintala @jekbradbury and @iassael for some Europe love? :)"
+,,,,,,"Stickers are backpacking with @soumithchintala , find him and demand one!
+Soon to be passed on to @jekbradbury for… https://t.co/5xiXd5JuTr"
+,,,,,,"@alexjc Wei OUYANG executes your wish :)
+https://t.co/uL5GWX5LnY"
+,,,,,,"RT @alxndrkalinin: #PyTorch implementation of BEGAN: Boundary Equilibrium Generative Adversarial Networks by @carpedm20 https://t.co/frUVB2…"
+,,,,,,"torchvision v0.1.8: More models (SqueezeNet, Inception, DenseNet) w/ pre-trained weights, more datasets (SVHN, etc.) https://t.co/pIlE80J1zR"
+,,,,,,"CuDNN v6 integration, improved Multi-GPU perf, new layers, many bug fixes
+v0.1.11 release notes: https://t.co/KjGnfc5Z6a"
+,,,,,,"Powering the paper ""Scaling the Scattering Transform: Deep Hybrid Networks"" by Oyallon, Belilovsky and @szagoruyko5
+https://t.co/SEkiY2okKy"
+,,,,,,"For the Wavelet folks: Scattering Convolution Networks -- fully GPU powered, 225x faster over CPU.… https://t.co/EqdYJsplmA"
+,,,,,,"Our tutorials have been revamped into this cleaner website by @sasank51
+We would love to get more feedback!… https://t.co/UIPaO9YmEb"
+,,,,,,"@skrish_13 @github has always been, but under https://t.co/Bi8XB8DKMj , we moved it to a separate repo"
+,,,,,,"@recastrodiaz will attempt again later this week."
+,,,,,,"@recastrodiaz ssl was never enabled for https://t.co/b35UOLhdfo , but we've been attempting to do so yesterday, ended in a disaster."
+,,,,,,"OpenAI's new paper ""Evolution Strategies as a Scalable Alternative to Reinforcement Learning"" implemented in… https://t.co/EqF8SGEgaW"
+,,,,,,"The mailing list took a deserved vacation, but it's back again.
+https://t.co/LQvcDAVx1I https://t.co/n8xudeZsYX"
+,,,,,,"RT @jeremyphoward: GTC is one of my fave conferences. And, I'm giving a talk on Neural Translation with @PyTorch! For 20% off: FFSGTC17 htt…"
+,,,,,,"RT @alxndrkalinin: DiscoGAN in #PyTorch: code for ""Learning to Discover Cross-Domain Relations with Generative Adversarial Networks"" https:…"
+,,,,,,"You've been asking for visualization solutions. Facebook's Visdom is a great tool for that! Another is Crayon:… https://t.co/U84n61ygq7"
+,,,,,,"RT @sprobertson: a @PyTorch version of char-rnn generating Shakespearean gibberish https://t.co/oy7ZzcvzbC - PyTorch makes this short and r…"
+,,,,,,"Variable-length RNNs, Better Indexing, Sparse Tensors, Faster CPU Ops, Many Bug Fixes. 
+v0.1.10 release notes:
+https://t.co/1vIkFZtfYT"
+,,,,,,"RT @brandondamos: Our new paper (with @priyald17): Task-based End-to-end Model Learning
+
+Paper: https://t.co/hRrbskQCjj
+Code: https://t.co/…"
+,,,,,,"@chandrachud04 `model.state_dict()` -&gt; loop over the list and call `.numpy()`"
+,,,,,,"@deliprao @talbaumel Serving any moderately sized nn is bound by nn computation, not request/response."
+,,,,,,"@deliprao @talbaumel if Serving is your killer feature, then we can get something going with Tornado / AsyncIO."
+,,,,,,"@alexjc @graphific two of my favorite people. Hope it went well, and if not I'd love to find out why."
+,,,,,,"RT @hardmaru: PyTorch Tutorial: Most of the models were implemented with less than 30 lines of code. https://t.co/ITqbIFs8KF"
+,,,,,,"@zopatista @tehmasR @UridahSami @osquery Uridah, you are awesome!"
+,,,,,,"YOLOv2 is @pjreddie's real time object detector. Checkout the PyTorch port: https://t.co/vjsxX0aUTX
+Project page:… https://t.co/lX8VRJNjHj"
+,,,,,,"@Jyo_Pari All of them in your poll"
+,,,,,,"@Jyo_Pari if you're on ARM, you will have you build from source https://t.co/U1PhIzwidW but as we self-admit, might not be a great xperience"
+,,,,,,"@Jyo_Pari @tensorflow just full disclosure, one vote for myself is from myself."
+,,,,,,"@Jyo_Pari build from source -- maybe. Sorry, we didn't really look into 32-bit, though we did try out ARM itself."
+,,,,,,"@Jyo_Pari yes."
+,,,,,,"@chriseberly does not matter. If you have a choice, go for 3, it's nicer."
+,,,,,,"@TJzafar @tensorflow we love you more!"
+,,,,,,"RT @brandondamos: Our new paper - OptNet: Differentiable Optimization as a Layer in Neural Nets
+
+Paper: https://t.co/OHF5GCNB50
+Code: https…"
+,,,,,,"RT @brandondamos: We also just released a fast and differentiable QP solver for @PyTorch.
+
+https://t.co/oyJgGD0ZJS https://t.co/sEdBshOl7m"
+,,,,,,"RT @chrisemoody: Tried #pytorch for the first time today. Wrote a t-SNE implementation; worked beautifully &amp; fast! https://t.co/q6NcsV1uqa…"
+,,,,,,"@PyTorch vs @tensorflow vs Theano. Detailed Reviews from users across the community. 
+https://t.co/KdIuvaBsqO"
+,,,,,,"RT @harvardnlp: #OpenNMT in @PyTorch (https://t.co/YiuYLRc173): A new Python port of the system written by Facebook research."
+,,,,,,"RT @hllo_wrld: Switched to a dynamic #deeplearning framework? @ChainerOfficial or @pytorch? Checkout https://t.co/a2IRhIfbym for experiment…"
+,,,,,,"@vgholkar we dont have a CUDA OSX machine, hence we didn't build binaries :)"
+,,,,,,"@AlfredoCanziani @hisham_hm @seaandsailor @TorchML i was built autograd-first and nn on top. @TorchML was build nn first and autograd on top"
+,,,,,,"Salesforce Research's @jekbradbury will be talking about @PyTorch on March 15th in San Jose. Come get started...
+https://t.co/toW5mLNe8W"
+,,,,,,"@chaoticneural we're working on it. Soon to happen `pip install torch` (doesn't work yet)"
+,,,,,,"@TheEcolss @yoavgo @fastml_extra I was released into the wild 3 days later than when the paper was published."
+,,,,,,"@ndronen @deliprao nicholas, any benchmark or script you can provide will help me tune myself further. i want to be the fastest."
+,,,,,,"RT @brandondamos: I just finished my @PyTorch implementation of DenseNet-BC, which gets 4.77% error on CIFAR-10+
+
+https://t.co/RmiH97AvFd h…"
+,,,,,,"RT @sprobertson: In the newest Practical @PyTorch tutorial we'll be teaching a neural network to translate from French to English https://t…"
+,,,,,,"#nopressure :)
+We look forward to redefining expectations and enabling you to do cutting edge research. https://t.co/vJeGmPmcCw"
+,,,,,,"RT @karpathy: Very nice tutorial from Justin on PyTorch from scratch https://t.co/ZBRHUGa7H2 ,stumbled on from ""Practical PyTorch"" https://…"
+,,,,,,"RT @brandondamos: block: My [short] new Python library for intelligent block matrices in numpy, @PyTorch, and beyond.
+
+https://t.co/VPmMK6O…"
+,,,,,,"Code for the paper, can do LSUN, Imagenet, Faces experiments: https://t.co/jKQKHMbd7H https://t.co/zWy2UvKyK6"
+,,,,,,"@alexjc @soumithchintala @github bug fixed, pushed into the bugfix release 0.1.7 today. Also python 3.6 binaries as you requested."
+,,,,,,"@sirajraval hi!"
+,,,,,,"@alexjc that's awesome. Before you discover it, there's also a nice Upsampling example contributed by @twitter here: https://t.co/bq6x7AuNxx"
+,,,,,,"@ErmiaBivatan @rasbt please look at our website https://t.co/b35UOLhdfo we provide both pip and conda"
+,,,,,,"@ErmiaBivatan @rasbt if you do `pip install torchvision` along with installling pytorch, it should be there."
+,,,,,,"@ErmiaBivatan pip install torchvision"
+,,,,,,"""Paying More Attention to Attention"" improves ConvNets with Attention.
+#lclr2017 submission powered by yours truly… https://t.co/5Nbthwjoua"
+,,,,,,"@Rosenchild @github the screenshots dont correspond to https://t.co/kUz9zDbVGS but thanks for the tweet."
+,,,,,,"@Rosenchild it's not the same tutorial. it's for a different pytorch. (as mentioned at the beginning of the blogpost)"
+,,,,,,"@nanoborisov https://t.co/dixqYs3Vh7"
+,,,,,,"@o_pedia https://t.co/2Bm5X98ncI"
+,,,,,,"@PeterMartigny https://t.co/4qDlnOOtbl"
+,,,,,,"@ashishairon needs to be fixed to -c hinton"
+,,,,,,"@ogrisel @seaandsailor WIP by Francisco Massa here: https://t.co/2Bm5X98ncI ping him on the thread."
+,,,,,,"RT @Rob_Bishop: @alykhantejani &amp; the Magic Pony team contributed a Super Resolution example to the @PyTorch early-release Beta: https://t.c…"
+,,,,,,"RT @jekbradbury: @brandondamos Chainer, MinPy, DyNet, and Autograd all can, but PyTorch's autodifferentiation engine is several times faster"
+,,,,,,"RT @brandondamos: Dropping into C from PyTorch is another great feature that they did right: https://t.co/5uF1esc2Ri"
+,,,,,,"RT @brandondamos: Why PyTorch's layer creation is powerful: Here's my layer that solves an optimization problem with a primal-dual interior…"
+,,,,,,"GPU Tensors, Dynamic Neural Networks and deep Python integration. Hello world!
+https://t.co/b35UOLhdfo https://t.co/MnuNVqJVZK"
